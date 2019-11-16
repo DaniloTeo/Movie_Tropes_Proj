@@ -1,0 +1,816 @@
+,Unnamed: 0,budget,gross,opening_gross,opening_theaters,rating,season,studio,title,year,mpaa_new
+0,2978462,Low,Low,Low,High,Medium High,June-Sep,WB,Dolphin Tale 2,2014,PG
+1,1571222,Low,Low,Low,Low,Medium High,Oct-Nov,SPC,A Dangerous Method,2011,R
+2,1920849,Low,Low,Low,Low,Medium,June-Sep,RTWC,Bachelorette,2012,R
+3,1220634,Low,Low,Low,Medium High,Medium,June-Sep,SGem,Resident Evil: Afterlife,2010,R
+4,2295722,Low,Low,Low,Low,Medium,June-Sep,Free,Falcon Rising,2014,R
+5,1645170,Low,Low,Low,Medium High,Medium High,Jan-May,Par.,The Dictator,2012,R
+6,375568,Low,Low,Low,Medium High,Medium High,Oct-Nov,Sum.,Astro Boy,2009,PG
+7,457400,Low Medium,Low,Low,Medium High,Medium,June-Sep,Uni.,Land of the Lost,2009,PG-13
+8,1074638,Medium,Medium,Medium,Medium High,High,Oct-Nov,Sony,Skyfall,2012,PG-13
+9,2226417,Low,Low,Low Medium,Medium High,Medium High,June-Sep,FD,Insidious Chapter 2,2013,PG-13
+10,2473682,Low,Low,Low,Medium High,Low Medium,Jan-May,Par.,Paranormal Activity: The Marked Ones,2014,R
+11,1282140,Low,Low,Low,Medium High,Medium High,June-Sep,SGem,Easy A,2010,PG-13
+12,1151922,Low,Low,Low,Low Medium,Medium,Jan-May,FoxS,Miss March,2009,R
+13,2191701,Low,Low,Low Medium,Medium High,Medium,June-Sep,Sony,Grown Ups 2,2013,PG-13
+14,770703,Low,Low,Low,Medium High,Medium,June-Sep,Fox,What's Your Number?,2011,R
+15,1646987,Low Medium,Low,Low,Medium High,Medium,Jan-May,WB,Wrath of the Titans,2012,PG-13
+16,1521197,Low,Low,Low,Low,Medium High,Oct-Nov,Sony,Anonymous,2011,PG-13
+17,1959490,Low Medium,Low,Low Medium,Medium High,Medium,Jan-May,Par.,Noah,2014,PG-13
+18,974661,Low,Low,Low,Medium High,Medium High,Jan-May,WB (NL),17 Again,2009,PG-13
+19,1315981,Low,Low,Low,Low,High,Dec,Wein.,A Single Man,2009,R
+20,2955096,Low,Low,Low,Low,Medium,June-Sep,Magn.,Happy Christmas,2014,R
+21,2725962,Low,Low,Low,Low,Medium High,Jan-May,MBox,Ida,2014,PG-13
+22,1375666,Low Medium,Low Medium,Low Medium,High,High,June-Sep,WB,Inception,2010,PG-13
+23,1470827,Low,Low,Low,Low,Medium High,Oct-Nov,Magn.,Monsters,2010,R
+24,1872181,Medium,Low Medium,Medium,High,Medium High,Jan-May,Sony,The Amazing Spider-Man 2,2014,PG-13
+25,938330,Low,Low,Low,Medium High,Low Medium,Oct-Nov,ORF,Silent Hill: Revelation 3D,2012,R
+26,1430607,Low,Low,Low,Medium High,Medium High,Oct-Nov,Sony,Arthur Christmas,2011,PG
+27,1772408,Low,Low,Low,Low,Medium,Oct-Nov,Mont.,Trade of Innocents,2012,PG-13
+28,1397514,Low,Low,Low,Medium High,Medium,Jan-May,WB,Journey 2: The Mysterious Island,2012,PG
+29,1114740,Low,Low,Low,Medium High,Medium,Jan-May,Sony,Paul Blart: Mall Cop,2009,PG
+30,1403241,Low,Low,Low,Low,Medium,Oct-Nov,KE,Wolves,2014,R
+31,1809398,Low,Low,Low,Medium High,Medium High,Dec,Uni.,Unbroken,2014,PG-13
+32,2262227,Low,Low,Low,Medium High,Medium High,Oct-Nov,Fox,The Book of Life ,2014,PG
+33,1068242,Low,Low,Low,Medium High,Medium,Oct-Nov,Par.,Footloose ,2011,PG-13
+34,1152822,Low,Low,Low,Low,Medium High,Oct-Nov,Magn.,Freakonomics,2010,PG-13
+35,1323594,Low,Low Medium,Low Medium,Medium High,High,June-Sep,Uni.,Despicable Me,2010,PG
+36,458525,Low Medium,Low Medium,Medium,High,Medium High,Jan-May,Fox,X-Men Origins: Wolverine,2009,PG-13
+37,1735898,Low Medium,Low Medium,Low Medium,High,Medium,June-Sep,Uni.,Snow White and the Huntsman,2012,PG-13
+38,1170358,Medium,Low Medium,Medium,High,High,Dec,WB,The Hobbit: The Desolation of Smaug,2013,PG-13
+39,1220628,Low,Low,Low,Low,Medium,June-Sep,Free,I Hope They Serve Beer in Hell,2009,R
+40,800320,Low Medium,Low Medium,Low Medium,High,Medium,Jan-May,WB,Clash of the Titans ,2010,PG-13
+41,2739338,Low,Low,Low,Low,Medium,Oct-Nov,ELS,The Christmas Candle,2013,PG
+42,1126590,Low,Low,Low,Low Medium,Medium High,Dec,Wein.,Big Eyes,2014,PG-13
+43,1210166,Low,Low,Low,Medium High,High,June-Sep,Sony,Moneyball,2011,PG-13
+44,1127180,Low,Low,Low,Medium,Medium High,Jan-May,Uni.,Drag Me to Hell,2009,PG-13
+45,1232783,Low,Low,Low,Medium,Medium,June-Sep,Sum.,Sorority Row,2009,R
+46,1413495,Low,Low,Low,Medium,Medium,June-Sep,Rela.,Paranoia,2013,PG-13
+47,1421051,Low,Low,Low,Low,Medium High,Dec,Focus,Somewhere,2010,R
+48,1179034,Low,Low,Low,Medium High,Medium High,Jan-May,LGF,From Paris with Love,2010,R
+49,1990314,Low,Low,Low,Low,Medium High,June-Sep,Gold.,Robot & Frank,2012,PG-13
+50,1190080,Medium,Low Medium,Low Medium,Medium High,Medium,Oct-Nov,Sony,2012,2009,PG-13
+51,1230414,Low,Low,Low,Medium High,Medium High,Dec,Uni.,It's Complicated,2009,R
+52,1922777,Low,Low,Low,Medium,Medium High,Oct-Nov,LG/S,Sinister,2012,R
+53,1726592,Low,Low,Low,Medium,Medium High,Oct-Nov,CE,Before I Go To Sleep,2014,R
+54,1235170,Low,Low,Low,Low,Medium,June-Sep,RAtt.,The Future,2011,R
+55,2937898,Low,Low,Low,Low,Medium High,Dec,A24,A Most Violent Year,2014,R
+56,1392214,Low,Low,Low,Medium High,High,June-Sep,WB,Prisoners,2013,R
+57,1951264,Low Medium,Medium,High,High,High,Oct-Nov,LGF,The Hunger Games: Catching Fire,2013,PG-13
+58,986263,Low,Low,Low,Medium High,Medium High,June-Sep,BV,Surrogates,2009,PG-13
+59,2172934,Low,Low,Low,Medium High,Medium,Jan-May,Rela.,3 Days to Kill,2014,PG-13
+60,2387559,Low,Low,Low,Medium High,Medium High,Oct-Nov,BV,Delivery Man,2013,PG-13
+61,1204342,Low,Low,Low,Medium High,Medium High,Oct-Nov,BV,The Muppets,2011,PG
+62,2752758,Low,Low,Low,Medium,Low Medium,Jan-May,Fox,Devil's Due,2014,R
+63,448011,Low,Low,Low,Medium High,Medium,Jan-May,Sum.,Knowing,2009,PG-13
+64,443272,Low,Low Medium,Low,Low,Medium High,Oct-Nov,BV,Lincoln,2012,PG-13
+65,1126618,Low,Low,Low,Medium,Medium High,Oct-Nov,Par.,Morning Glory,2010,PG-13
+66,1179258,Low,Low,Low,Low,Medium,June-Sep,Mira.,Cheri,2009,R
+67,1375670,Low,Low Medium,Low Medium,Medium High,Medium,June-Sep,Sony,Grown Ups,2010,PG-13
+68,1650554,Low,Low,Low,Medium High,Medium High,June-Sep,Uni.,Kick-Ass 2,2013,R
+69,1092026,Low,Low,Low,Medium High,Medium High,Jan-May,Uni.,Paul,2011,R
+70,3722118,Low,Low,Low,Low,Medium,Oct-Nov,RM,God the Father,2014,R
+71,2302755,Low,Low,Low,Medium High,Medium High,Jan-May,FD,Olympus Has Fallen,2013,R
+72,1430615,Low,Low,Low,Medium,Medium High,Jan-May,Uni.,Big Miracle,2012,PG
+73,1423995,Low,Low,Low,Low,Medium,Oct-Nov,Over.,Stone,2010,R
+74,2618368,Low,Low,Low,Low,Medium High,Jan-May,RAtt.,Gloria ,2014,R
+75,1855199,Low,Low,Low,Medium High,High,June-Sep,ORF,End of Watch,2012,R
+76,1568346,Low Medium,Low,Low,Medium High,High,Dec,Sony,The Girl with the Dragon Tattoo ,2011,R
+77,1425922,Low,Low,Low,Low Medium,Low Medium,Oct-Nov,FoxS,Black Nativity,2013,PG
+78,988045,Low Medium,Low Medium,Low Medium,High,High,Dec,WB,Sherlock Holmes,2009,PG-13
+79,993842,Low,Low,Low,Medium,Medium High,Jan-May,Focus,Hanna,2011,PG-13
+80,452694,Low,Low,Low,Medium High,Medium High,June-Sep,WB (NL),The Time Traveler's Wife,2009,PG-13
+81,429493,Low Medium,Low,Low,Medium High,Medium High,June-Sep,Fox,The A-Team,2010,PG-13
+82,872230,Low,Low,Low,Medium,Low Medium,Oct-Nov,Uni.,My Soul to Take,2010,R
+83,970179,Medium,Low,Low,Low Medium,High,Oct-Nov,Par.,Hugo,2011,PG
+84,1542344,Low,Low,Low,Low,High,Oct-Nov,FoxS,127 Hours,2010,R
+85,2042568,Low,Low,Low,Low,Medium High,Dec,CBS,Inside Llewyn Davis,2013,R
+86,1212450,Low,Low,Low,Medium High,Medium High,June-Sep,Wein.,Lawless,2012,R
+87,990407,Low Medium,Low,Low,High,Medium,Jan-May,Sony,The Green Hornet,2011,PG-13
+88,1631867,Medium,Low,Low,Medium High,High,June-Sep,WB,Edge of Tomorrow,2014,PG-13
+89,1560985,Low,Low,Low,Medium,Low Medium,Jan-May,Par.,The Devil Inside,2012,R
+90,892769,Low Medium,Low Medium,Low Medium,High,High,Jan-May,P/DW,How to Train Your Dragon,2010,PG
+91,1956620,Low,Low,Low,Medium High,Medium,June-Sep,Sony,Sex Tape,2014,R
+92,1067774,Low,Low,Low,Medium,Medium,June-Sep,Fox,Monte Carlo,2011,PG
+93,1045772,Low,Low,Low,Low,Medium High,Dec,RAtt.,"I Love You, Phillip Morris",2010,R
+94,1560747,Low,Low,Low,Low,Medium High,June-Sep,Wein.,The Master,2012,R
+95,1490017,Low,Low Medium,Low Medium,High,High,Jan-May,WB,The LEGO Movie,2014,PG
+96,1714206,Low,Low,Low,Low,Medium High,June-Sep,A24,The Spectacular Now,2013,R
+97,762125,Low,Low,Low,Medium High,Medium,Oct-Nov,Sony,Planet 51,2009,PG
+98,2582802,Low,Low,Low,Low,High,Oct-Nov,SPC,Whiplash,2014,R
+99,464154,Low,Low,Low,Medium,Medium,June-Sep,W/Dim.,Piranha 3D,2010,R
+100,1241226,Low,Low,Low,Low,Low Medium,Jan-May,BIP,Locker 13,2014,R
+101,2557490,Low,Low,Low,Medium High,Medium,Jan-May,Uni.,A Million Ways to Die in the West,2014,R
+102,1791528,Low,Low,Low,Low,Medium High,Dec,WB,Inherent Vice,2014,R
+103,3099498,Low,Low,Low,Low,Medium,June-Sep,A24,Tusk,2014,R
+104,1361313,Low,Low,Low,Low,Medium,June-Sep,Magn.,The Extra Man,2010,R
+105,1622547,Low,Low,Low,Medium High,Medium,June-Sep,Sony,30 Minutes or Less,2011,R
+106,1119646,Low,Low Medium,Low Medium,Medium High,High,June-Sep,WB,The Hangover,2009,R
+107,780653,Low Medium,Low,Low,Medium High,Medium,Jan-May,Uni.,The Wolfman,2010,R
+108,2247476,Low,Low,Low,Medium,Medium High,June-Sep,TriS,When the Game Stands Tall,2014,PG
+109,1649419,Low,Low,Low,Low,High,Dec,LG/S,The Impossible,2012,PG-13
+110,1211890,Low,Low,Low,Low,Medium High,Oct-Nov,AFFRM,Middle of Nowhere ,2012,R
+111,1232829,Low,Low,Low Medium,Medium High,Medium High,Jan-May,Sony,21 Jump Street,2012,R
+112,1037705,Low,Low,Low,Medium High,Medium High,Jan-May,WB,The Book of Eli,2010,R
+113,1645080,Low,Low,Low,Low,Medium High,June-Sep,FoxS,The Art of Getting By,2011,PG-13
+114,1645089,Low,Low,Low,Low,High,Oct-Nov,SPC,Inside Job,2010,PG-13
+115,1077368,Low Medium,Low,Low,High,Medium,Jan-May,WB,Dark Shadows,2012,PG-13
+116,1250777,Low,Low,Low,Medium High,High,Jan-May,LGF,Kick-Ass,2010,R
+117,1462769,Low,Low,Low,Medium,Medium High,June-Sep,BV,The Odd Life of Timothy Green,2012,PG
+118,780504,Low,Low,Low,Medium High,High,June-Sep,FD,Drive ,2011,R
+119,1261945,Low Medium,Low,Low,Medium High,Low Medium,Jan-May,WB (NL),Sex and the City 2,2010,R
+120,2396566,Low,Low,Low,Low,Medium High,June-Sep,RTWC,20 Feet from Stardom,2013,PG-13
+121,785006,Low,Low,Low,Medium High,Medium,Jan-May,P/DW,Hotel for Dogs,2009,PG
+122,1440129,Medium,Low,Low,High,Medium,Jan-May,Uni.,Battleship,2012,PG-13
+123,1465522,Low,Low,Low,Low,High,June-Sep,Magn.,Tucker & Dale Vs. Evil,2011,R
+124,1719071,Low,Low,Low,Low,Medium,Oct-Nov,P4,Another Happy Day,2011,R
+125,1316616,Low,Low,Low,Low,Medium,Jan-May,Gold.,There Be Dragons,2011,PG-13
+126,2630916,Low,Low,Low,Low,Medium High,June-Sep,SD,Pump,2014,PG
+127,2431286,Low,Low,Low,Low,High,Oct-Nov,Wein.,Philomena,2013,PG-13
+128,2369135,Low,Low,Low,Medium High,Medium High,Jan-May,BV,Need for Speed,2014,PG-13
+129,1234548,Low,Low,Low,Medium,Medium,Oct-Nov,Over.,The Men Who Stare at Goats,2009,R
+130,1560957,Low,Low,Low,Low,Low Medium,Oct-Nov,Free,I Want Your Money,2010,PG
+131,1262416,Low,Low,Low,Medium High,Medium,Jan-May,W/Dim.,Scream 4,2011,R
+132,1220198,Low,Low,Low,Medium,Medium,Oct-Nov,Uni.,The Fourth Kind,2009,PG-13
+133,1334260,Low,Low,Low,Low,Medium High,June-Sep,FoxS,Never Let Me Go,2010,R
+134,2170439,Low,Low,Low,Medium High,Medium High,Oct-Nov,WB,Horrible Bosses 2,2014,R
+135,1220213,Low,Low,Low,Low,Medium,June-Sep,Anch.,Grace ,2009,R
+136,1598778,Low,Low,Low,Medium High,Medium High,June-Sep,WB,Contagion,2011,PG-13
+137,1430626,Low,Low,Low,Medium High,Medium High,Jan-May,Sony,The Pirates! Band of Misfits,2012,PG
+138,1091722,Low,Low,Low,Medium,Medium High,Jan-May,Mira.,Adventureland,2009,R
+139,2364841,Low,Low,Low,Medium High,Medium,Oct-Nov,Fox,Runner Runner,2013,R
+140,1092633,Low,Low,Low,Medium,Medium,June-Sep,ParV,"The Goods: Live Hard, Sell Hard",2009,R
+141,2402157,Low,Low,Low,Medium High,Medium High,June-Sep,Rela.,The November Man,2014,R
+142,1135084,Low,Low,Low,Medium,Medium,June-Sep,SGem,Takers,2010,PG-13
+143,427152,Low,Low,Low,Medium High,Medium,June-Sep,P/DW,Dinner for Schmucks,2010,PG-13
+144,1630036,Low,Low,Low,Low Medium,Medium High,June-Sep,TriS,Courageous,2011,PG-13
+145,1637706,Low,Low,Low,Medium,Medium High,June-Sep,Wein.,Our Idiot Brother,2011,R
+146,1189340,Low,Low,Low,Medium High,Medium High,Jan-May,LGF,The Lincoln Lawyer,2011,R
+147,1136608,Low,Low,Low Medium,Medium High,High,June-Sep,TriS,District 9,2009,R
+148,1268799,Low,Low,Low,Medium High,Medium High,Oct-Nov,WB (NL),A Very Harold & Kumar 3D Christmas,2011,R
+149,1684628,Low,Low,Low,Low,Medium,June-Sep,RAtt.,Circumstance,2011,R
+150,1305583,Low,Low,Low,Low Medium,Low Medium,Jan-May,FoxS,Our Family Wedding,2010,PG-13
+151,473705,Low,Low,Low,Medium High,Medium High,Jan-May,Uni.,State of Play,2009,PG-13
+152,1528100,Low Medium,Low,Low,Medium High,Medium,Dec,Fox,Exodus: Gods and Kings,2014,PG-13
+153,1322312,Low,Low,Low,Medium High,Medium High,June-Sep,WB (NL),Going the Distance,2010,R
+154,1440728,Low,Low,Low,Medium High,Medium High,June-Sep,Focus,The American,2010,R
+155,1244659,Low,Low,Low,Medium,Medium High,Jan-May,CBS,Extraordinary Measures,2010,PG
+156,1730687,Low,Low,Low,Low,Low Medium,Jan-May,SPC,Darling Companion,2012,PG-13
+157,1067583,Low,Low,Low,Medium High,Medium High,Jan-May,Fox,Water for Elephants,2011,PG-13
+158,1545106,Low,Low,Low,Low,Medium,Oct-Nov,Anch.,Vamps,2012,PG-13
+159,1134854,Low,Low,Low,Low,Low Medium,Jan-May,Magn.,George A. Romero's Survival of the Dead,2010,R
+160,1043726,Low,Low,Low,Medium,Low Medium,Jan-May,LG/S,The Legend of Hercules,2014,PG-13
+161,2015381,Low Medium,Medium,Medium,High,High,June-Sep,BV,Guardians of the Galaxy,2014,PG-13
+162,1160368,Low,Low,Low,Low,Medium,Jan-May,SPC,12,2009,PG-13
+163,2582846,Low,Low,Low Medium,Medium High,High,June-Sep,Fox,The Fault in our Stars,2014,PG-13
+164,790736,Low Medium,Low,Low,Medium High,Medium,June-Sep,Uni.,R.I.P.D.,2013,PG-13
+165,1407061,Low,Low,Low,Medium,Medium,Jan-May,FoxS,Just Wright,2010,PG
+166,1604171,Low,Low,Low,Medium High,Medium,Jan-May,BV,Prom,2011,PG
+167,1433822,Low,Low,Low,Low,Low Medium,June-Sep,WB,The Apparition,2012,PG-13
+168,1403981,Low,Low,Low,Medium,Medium High,Jan-May,Sum.,Remember Me,2010,PG-13
+169,1226229,Low,Low,Low,Medium High,Medium High,June-Sep,Uni.,Get Him to the Greek,2010,R
+170,1307068,Low,Low,Low,Low Medium,Medium High,June-Sep,Focus,Seeking a Friend for the End of the World,2012,R
+171,1623205,Medium,Low Medium,Medium,High,Medium High,Jan-May,BV,Oz The Great and Powerful,2013,PG
+172,477080,Low Medium,Low,Low,Medium High,Medium High,Oct-Nov,Fox,Unstoppable,2010,PG-13
+173,1135503,Low,Low,Low,Low,Medium High,Jan-May,Magn.,Julia ,2009,PG-13
+174,829150,Low,Low,Low,Medium High,Medium High,Oct-Nov,Uni.,Dracula Untold,2014,PG-13
+175,1228987,Low,Low,Low,Medium,Medium High,Oct-Nov,Over.,Let Me In,2010,R
+176,1155056,Low,Low,Low,Medium High,Medium High,Jan-May,P/DW,"I Love You, Man",2009,R
+177,1438176,Low,Low,Low,Medium High,Medium High,June-Sep,BV,Fright Night ,2011,R
+178,1302011,Low Medium,Low Medium,Low Medium,High,Medium High,Jan-May,P/DW,Kung Fu Panda 2,2011,PG
+179,780511,Low,Low,Low,Medium,Medium High,Dec,Mira.,Everybody's Fine,2009,PG-13
+180,1885265,Low,Low,Low,Medium,Medium,Jan-May,LGF,Tyler Perry's Good Deeds,2012,PG-13
+181,1327194,Low,Low,Low,Medium High,Medium High,Jan-May,WB,The Lucky One,2012,PG-13
+182,1120985,Low,Low,Low,Low,Medium High,Dec,Wein.,Blue Valentine,2010,R
+183,787474,Low,Low,Low,Medium High,Medium High,June-Sep,Focus,The Boxtrolls,2014,PG
+184,1258972,Low,Low,Low,Medium,Medium,Oct-Nov,Uni.,The Man with the Iron Fists,2012,R
+185,1554091,Low,Low,Low,Low,Medium High,June-Sep,Sum.,A Better Life,2011,PG-13
+186,1399683,Low,Low,Low,Low,Medium High,June-Sep,RAtt.,Winter's Bone,2010,R
+187,1470023,Low,Low,Low,Medium,Medium,Jan-May,Uni.,MacGruber,2010,R
+188,1355630,Low,Low,Low,Medium High,Medium High,June-Sep,WB,If I Stay,2014,PG-13
+189,1433108,Low,Low,Low,Medium,Medium High,Oct-Nov,CBS,Faster,2010,R
+190,1592525,Low,Low,Low,Medium,Medium,Jan-May,FD,Lockout,2012,PG-13
+191,1229340,Low,Low,Low,Medium High,Medium High,Dec,Par.,Anchorman 2: The Legend Continues,2013,PG-13
+192,971209,Low,Low,Low,Medium,Medium High,June-Sep,Uni.,A Perfect Getaway,2009,R
+193,2387433,Low,Low,Low,Medium,Medium High,Jan-May,W/Dim.,Dark Skies,2013,PG-13
+194,2091473,Low,Low,Low,Low,Medium High,Dec,Focus,Promised Land ,2012,R
+195,879870,Low,Low,Low,Medium High,Medium,June-Sep,Sony,Eat Pray Love,2010,PG-13
+196,1038919,Low,Low,Low,Medium High,Medium,Jan-May,Sony,The Bounty Hunter,2010,PG-13
+197,1272878,Low,Low,Low,Medium High,Medium High,June-Sep,Uni.,2 Guns,2013,R
+198,1335975,Medium,Low,Low,Medium High,Medium High,Dec,Uni.,47 Ronin,2013,PG-13
+199,2113659,Low,Low,Low,Low,Medium High,Oct-Nov,MNE,Elsa & Fred ,2014,PG-13
+200,2334873,Low,Low,Low,Low,Medium High,June-Sep,SPC,Blue Jasmine,2013,PG-13
+201,1431181,Low,Low,Low,Low,Medium High,Dec,SPC,Another Year,2010,PG-13
+202,1661382,Low,Low,Low,Medium High,Medium High,Dec,WB,Grudge Match,2013,PG-13
+203,1279935,Low,Low,Low,Medium High,Medium High,Jan-May,Fox,Date Night,2010,PG-13
+204,1632708,Low,Low,Low,Medium High,Medium High,June-Sep,SGem,Friends with Benefits,2011,R
+205,1401152,Low,Low,Low,Medium High,Medium High,Jan-May,WB,Unknown,2011,PG-13
+206,770828,Medium,Low Medium,Medium High,High,Medium High,June-Sep,WB,Man of Steel,2013,PG-13
+207,1441953,Low,Low,Low,Low,Medium High,June-Sep,Vari.,Test,2014,PG-13
+208,1095217,Low,Low,Low,Low,Medium High,Oct-Nov,First,Bad Lieutenant: Port of Call New Orleans,2009,R
+209,989757,Low,Low,Low,Medium High,Medium High,Jan-May,SGem,Dear John,2010,PG-13
+210,1034389,Low,Low,Low,Medium,Medium,Jan-May,Focus,The Eagle,2011,PG-13
+211,1232207,Low,Low,Low,Low,Medium High,June-Sep,Over.,Capitalism: A Love Story,2009,R
+212,1219342,Low Medium,Low,Low,High,Medium High,June-Sep,WB,Legend of the Guardians: The Owls of Ga'Hoole,2010,PG
+213,1663143,Low,Low,Low,Medium High,Medium,Oct-Nov,Par.,Fun Size,2012,PG-13
+214,1586265,Low,Low,Low,Medium High,Medium,Jan-May,LGF,What to Expect When You're Expecting,2012,PG-13
+215,1194173,Low Medium,Low,Low Medium,High,Medium High,June-Sep,Uni.,The Bourne Legacy,2012,PG-13
+216,2398231,Low,Low,Low,Low,Medium High,Oct-Nov,Saban,The Homesman,2014,R
+217,2226519,Low,Low,Low,Low,Medium,June-Sep,IMG/B,Plush,2013,R
+218,2334649,Low,Low,Low,Low,Medium High,June-Sep,Wein.,Fruitvale Station,2013,R
+219,471042,Low,Low,Low,Medium High,Medium,Oct-Nov,Uni.,Tower Heist,2011,PG-13
+220,1637688,Low,Low,Low,Medium High,Medium High,Oct-Nov,Fox,In Time,2011,PG-13
+221,822847,Low,Low,Low,Medium High,Medium,Jan-May,SGem,Priest,2011,PG-13
+222,848537,Low Medium,Low,Low,High,Medium High,Jan-May,Fox,Epic,2013,PG
+223,1302067,Low,Low,Low,Medium High,Low Medium,Dec,WB,Yogi Bear,2010,PG
+224,1321511,Low,Low,Low,Low,Medium,Oct-Nov,FD,Oldboy ,2013,R
+225,881320,Low,Low,Low,Medium High,Medium,Jan-May,Uni.,Sanctum,2011,R
+226,790712,Low,Low,Low,Low,Medium High,Oct-Nov,Osci.,The Messenger,2009,R
+227,1225822,Low,Low,Low,Low Medium,Medium,June-Sep,Mira.,Extract,2009,R
+228,1667353,Low,Low,Low,High,Medium,Jan-May,Rela.,Mirror Mirror,2012,PG
+229,1582507,Low,Low,Low,Medium High,Medium,June-Sep,Rela.,House at the End of The Street,2012,PG-13
+230,1216492,Low,Low,Low,Medium,Medium High,Jan-May,Uni.,Leap Year,2010,PG
+231,898367,Low,Low,Low,Low,Medium High,Oct-Nov,W/Dim.,The Road,2009,R
+232,1235522,Low,Low,Low,Medium,Medium,Jan-May,Fox,Broken City,2013,R
+233,1371155,Low,Low,Low,Low,Medium High,Oct-Nov,SPC,Made in Dagenham,2010,R
+234,1240982,Low,Low,Low,Medium High,Medium,Jan-May,Uni.,Your Highness,2011,R
+235,816442,Low,Low,Low,Low,High,Oct-Nov,Fox,The Book Thief,2013,PG-13
+236,2096672,Low,Low,Low Medium,Medium High,Medium,Oct-Nov,Uni.,Dumb and Dumber To,2014,PG-13
+237,1049413,Medium,Low Medium,Low Medium,High,High,Jan-May,BV,Up,2009,PG
+238,1600195,Low,Low,Low,Medium High,Low Medium,June-Sep,LGF,Abduction,2011,PG-13
+239,485985,Low,Low,Low,Medium,Medium,Jan-May,Fox,Red Tails,2012,PG-13
+240,1053810,Low,Low,Low,Medium,Medium,Oct-Nov,Fox,The Big Year,2011,PG
+241,1235189,Low,Low,Low,Low,Medium High,Oct-Nov,Free,Wild Target,2010,PG-13
+242,455944,Low,Low,Low,Medium High,Medium High,June-Sep,Sony,The Equalizer,2014,R
+243,491152,Low,Low,Low,Medium High,Medium,Jan-May,WB,Something Borrowed,2011,PG-13
+244,1028576,Low,Low,Low,Medium High,Medium High,Oct-Nov,BV,Secretariat,2010,PG
+245,1535438,Low,Low,Low,Medium,Medium High,June-Sep,Sony,Hope Springs,2012,PG-13
+246,2109184,Low,Low,Low,Medium High,Low Medium,Oct-Nov,Par.,Paranormal Activity 4,2012,R
+247,1139668,Low,Low,Low,Medium,Low Medium,Jan-May,Uni.,The Unborn ,2009,PG-13
+248,1695994,Low,Low,Low,Low,Low Medium,June-Sep,Sony,The Virginity Hit,2010,R
+249,1071812,Low,Low,Low,Low,Medium High,June-Sep,Gold.,Mao's Last Dancer,2010,PG
+250,499549,High,High,Medium,Medium High,High,Dec,Fox,Avatar,2009,PG-13
+251,1277953,Low Medium,Low Medium,Low Medium,High,Medium High,June-Sep,P/DW,Madagascar 3: Europe's Most Wanted,2012,PG
+252,891592,Low,Low,Low,Low Medium,Low,Jan-May,Fox,Street Fighter: The Legend of Chun-Li,2009,PG-13
+253,1196141,Low,Low,Low,Medium High,Medium,Jan-May,Fox,Diary of a Wimpy Kid,2010,PG
+254,1578275,Low,Low,Low,Medium High,Medium,Jan-May,Uni.,The Dilemma,2011,PG-13
+255,2103254,Low,Low,Low,Medium High,Low Medium,June-Sep,WB,Tammy,2014,R
+256,1022603,Low,Low,Low,Low,High,June-Sep,FoxS,(500) Days of Summer,2009,PG-13
+257,815236,Low,Low,Low,Medium High,Medium High,Jan-May,Par.,She's Out of My League,2010,R
+258,1186367,Low,Low,Low,Medium,Medium High,Oct-Nov,WB,Ninja Assassin,2009,R
+259,881891,Low,Low,Low,Medium,Low Medium,June-Sep,Fox,All About Steve,2009,PG-13
+260,1606378,Low Medium,Low,Low,Medium High,Medium,Jan-May,Fox,A Good Day to Die Hard,2013,R
+261,1263670,Low,Low,Low,Low,Medium High,Dec,FoxS,Crazy Heart,2009,R
+262,1204975,Low,Low,Low,Medium High,Medium High,Oct-Nov,CBS,Last Vegas,2013,PG-13
+263,1204977,Low,Low,Low,Medium High,Low Medium,Oct-Nov,Uni.,Ouija,2014,PG-13
+264,1616195,Low,Low,Low,Medium,Medium High,Oct-Nov,WB,J. Edgar,2011,R
+265,1430132,Low Medium,Low,Low Medium,High,Medium High,June-Sep,Fox,The Wolverine,2013,PG-13
+266,1559547,Low,Low,Low,Medium High,Medium,Jan-May,WB,Beautiful Creatures ,2013,PG-13
+267,1840309,Low,Low Medium,Low Medium,High,Medium High,Jan-May,LG/S,Divergent,2014,PG-13
+268,2975578,Low,Low,Low,Medium High,Medium High,June-Sep,Uni.,The Purge: Anarchy,2014,R
+269,2870708,Low,Low,Low,Low,Medium High,June-Sep,Focus,Wish I Was Here,2014,R
+270,2243537,Low,Low,Low,Medium,Medium,Jan-May,ORF,A Haunted House,2013,R
+271,1262981,Low,Low,Low,Low,Medium High,June-Sep,Magn.,World's Greatest Dad,2009,R
+272,1502404,Low,Low,Low,Medium,Medium,Jan-May,Sum.,Drive Angry,2011,R
+273,1192628,Low Medium,Low,Low Medium,High,Medium High,Jan-May,Par.,Rango,2011,PG
+274,1907668,Low,Low,Low,Medium,Medium High,Oct-Nov,Par.,Flight,2012,R
+275,1155076,Low,Low Medium,Low Medium,High,Medium,June-Sep,Sony,The Karate Kid,2010,PG
+276,2034139,Low,Low,Low,Medium High,Low Medium,Jan-May,CBS,The Last Exorcism Part II,2013,PG-13
+277,1723811,Low,Low,Low,Low,Medium High,Dec,FoxS,Shame,2011,R
+278,3125324,Low,Low,Low,Medium,Medium High,Oct-Nov,Rela.,Beyond the Lights,2014,PG-13
+279,1093357,Low,Low,Low,Medium,Low Medium,Dec,Sum.,The Darkest Hour,2011,PG-13
+280,1325004,Low,Medium,Low Medium,High,Low Medium,June-Sep,Sum.,The Twilight Saga: Eclipse,2010,PG-13
+281,1596350,Low,Low,Low,Medium High,Medium High,Jan-May,Fox,This Means War,2012,R
+282,1424381,Low,Low,Low,Medium,Medium High,June-Sep,Fox,Predators,2010,R
+283,2305051,Low,Low,Low,Low,Medium High,Dec,FoxS,Wild ,2014,R
+284,1629757,Low,Low,Low,Medium,Medium High,Oct-Nov,Fox,Chasing Mavericks,2012,PG
+285,1742334,Low,Low,Low,Medium,Medium,Jan-May,ORF,Sabotage ,2014,R
+286,1800741,Low,Low,Low,Medium,Medium High,June-Sep,LG/S,Step Up Revolution,2012,PG-13
+287,1210071,Low,Low,Low,Low,Medium,Oct-Nov,TRR,Janky Promoters,2009,R
+288,1462758,Low,Low,Low,Low,Medium High,June-Sep,LGF,Buried,2010,R
+289,1273678,Low,Low,Low,Medium High,Medium,Jan-May,LGF,The Spy Next Door,2010,PG
+290,1020558,Low,Low,Low,Low,Medium High,June-Sep,Magn.,Centurion,2010,R
+291,1911658,Low Medium,Low,Low,High,Medium High,Oct-Nov,Fox,Penguins of Madagascar,2014,PG
+292,1712170,Low,Low,Low,Medium,Medium,Oct-Nov,LG/S,Alex Cross,2012,PG-13
+293,2039393,Low,Low,Low,Medium,Medium,Dec,Par.,The Gambler,2014,R
+294,1142988,Low,Low,Low,Medium High,Medium High,June-Sep,Sony,The Ugly Truth,2009,R
+295,1657507,Low,Low,Low,Medium,Medium High,June-Sep,TriS,Colombiana,2011,PG-13
+296,2294449,Low,Low Medium,Low Medium,Medium High,Medium High,June-Sep,Sony,22 Jump Street,2014,R
+297,398286,Medium High,Low Medium,Low Medium,High,High,Oct-Nov,BV,Tangled,2010,PG
+298,945513,Low,Low,Low,Medium High,Medium High,Jan-May,Sum.,Source Code,2011,PG-13
+299,1220220,Low,Low,Low,Low,Low Medium,Oct-Nov,Free,Motherhood,2009,PG-13
+300,1206543,Low,Low,Low,Medium,Medium High,Dec,Rela.,Out of the Furnace,2013,R
+301,1859650,Low,Low,Low,Low,Medium High,June-Sep,SPC,To Rome with Love,2012,R
+302,1764651,Low Medium,Low,Low,Medium High,Medium High,June-Sep,LGF,The Expendables 2,2012,R
+303,2193215,Low,Low,Low,Medium High,Medium,Oct-Nov,Fox,The Counselor,2013,R
+304,1385867,Low,Low,Low,Medium High,Medium,Jan-May,WB,Cop Out,2010,R
+305,954947,Low,Low,Low,Low,Medium,June-Sep,IFC,The Killer Inside Me,2010,R
+306,2980648,Low,Low,Low,Medium,Medium High,June-Sep,BV,The Hundred-Foot Journey,2014,PG
+307,2109248,Medium,Low Medium,Medium,High,Medium,June-Sep,Par.,Transformers: Age of Extinction,2014,PG-13
+308,2179136,Low,Medium,Low,Low,Medium High,Dec,WB,American Sniper,2014,R
+309,3322940,Low,Low,Low,Low,Medium,June-Sep,VE,Anna,2014,R
+310,1389137,Low,Low,Low,Medium High,Medium High,Dec,Fox,We Bought a Zoo,2011,PG
+311,1411704,Low,Low,Low Medium,High,Medium,Jan-May,Uni.,Hop,2011,PG
+312,1731141,Low Medium,Low,Low,Medium High,Medium High,Oct-Nov,LG/S,Ender's Game,2013,PG-13
+313,1720182,Low,Low,Low,Low,Medium High,Oct-Nov,5&2,October Baby,2011,PG-13
+314,1334512,Low,Low,Low,Medium High,Medium,Jan-May,WB,Arthur ,2011,PG-13
+315,1486185,Low,Low,Low,Medium High,Medium,Jan-May,WB,Red Riding Hood,2011,PG-13
+316,1211956,Low,Low,Low,Medium High,Medium High,Oct-Nov,LG/S,Escape Plan,2013,R
+317,383010,Low,Low,Low,Medium High,Medium,Jan-May,Fox,The Three Stooges,2012,PG
+318,472399,Low,Low,Low,Medium High,Medium High,Jan-May,CBS,The Mechanic,2011,R
+319,1655460,Low,Low,Low,Medium,Medium,Jan-May,Uni.,Wanderlust,2012,R
+320,1314655,Low,Low,Low,Medium High,Medium High,June-Sep,Uni.,Devil,2010,PG-13
+321,1178663,Low,Low,Low,Low,Medium High,June-Sep,SPC,Whatever Works,2009,PG-13
+322,1242432,Low,Low,Low,Low,Medium High,Oct-Nov,Anch.,I Spit on Your Grave,2010,R
+323,365907,Low,Low,Low,Medium High,Medium High,June-Sep,Uni.,A Walk Among the Tombstones,2014,R
+324,1244754,Low,Low,Low,Low,Medium High,Oct-Nov,FoxS,Conviction,2010,R
+325,1929263,Low,Low,Low,Medium,Medium,Jan-May,TriS,Heaven is for Real,2014,PG
+326,465580,Low,Low,Low,Medium,Medium,Jan-May,Sum.,Push,2009,PG-13
+327,864835,Low Medium,Low,Low,High,Medium High,Jan-May,Fox,Mr. Peabody & Sherman,2014,PG
+328,1488555,Low,Low,Low,Medium High,Medium High,June-Sep,Uni.,The Change-Up,2011,R
+329,1709143,Low,Low,Low,Low,Medium,Dec,Magn.,The Last Days on Mars,2013,R
+330,435651,Low,Low,Low,Medium High,Medium High,June-Sep,Wein.,The Giver,2014,PG-13
+331,1457767,Low,Low,Low Medium,Medium High,Medium High,June-Sep,WB,The Conjuring,2013,R
+332,1549920,Low,Low,Low,Medium High,Medium High,Jan-May,LGF,The Last Stand,2013,R
+333,1127896,Low,Low,Low,Low Medium,Medium High,June-Sep,Focus,Taking Woodstock,2009,R
+334,1499658,Low,Low,Low,Medium High,Medium High,June-Sep,WB (NL),Horrible Bosses,2011,R
+335,1698641,Low,Low,Low,Medium High,Medium,Oct-Nov,BV,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",2014,PG
+336,1478964,Low,Low,Low,Low,Medium High,June-Sep,SGem,Attack the Block,2011,R
+337,2609758,Low,Low,Low,Medium,Low Medium,Dec,LGF,Tyler Perry's A Madea Christmas,2013,PG-13
+338,2183034,Low,Low,Low,Medium High,Medium,June-Sep,Rela.,Earth to Echo,2014,PG
+339,2215719,Low,Low,Low,Medium High,Medium,June-Sep,Par.,Katy Perry: Part of Me,2012,PG
+340,1527186,Low,Low,Low,Low,Medium High,Oct-Nov,Magn.,Melancholia,2011,R
+341,2473602,Low,Low,Low,Medium,Medium High,June-Sep,Uni.,Get On Up,2014,PG-13
+342,1694020,Low,Low,Low,Medium,Medium,Dec,Par.,The Guilt Trip,2012,PG-13
+343,2294629,Low Medium,Medium,Low,Low,High,Oct-Nov,BV,Frozen,2013,PG
+344,1303803,Low,Low,Low,Low,Low,June-Sep,RM,Standing Ovation,2010,PG
+345,810922,Low,Low,Low,Medium,Medium High,Jan-May,Rela.,Take Me Home Tonight,2011,R
+346,1438254,Low,Low,Low,Medium High,Medium High,June-Sep,Uni.,Charlie St. Cloud,2010,PG-13
+347,1032751,Low,Low,Low,Low Medium,Medium High,Dec,Rela.,The Warrior's Way,2010,R
+348,1860353,Low Medium,Low,Low,High,Medium High,June-Sep,Fox,Turbo,2013,PG
+349,944835,Low Medium,Low,Low Medium,High,Medium High,June-Sep,Sony,Salt,2010,PG-13
+350,480255,Low,Low,Low,Medium High,Medium High,Jan-May,WB,The Losers,2010,PG-13
+351,816462,Low Medium,Low,Low,Medium High,Medium,June-Sep,LGF,Conan the Barbarian ,2011,R
+352,1142977,Low,Low,Low,Medium High,Medium High,Oct-Nov,BV,Frankenweenie,2012,PG
+353,1568911,Low,Low,Low,Medium,Medium High,Dec,BV,War Horse,2011,PG-13
+354,436339,Low Medium,Low,Low,High,Medium,June-Sep,BV,G-Force,2009,PG
+355,2771372,Low,Low,Low,Low,Medium High,Jan-May,WB,Veronica Mars,2014,PG-13
+356,983193,Low Medium,Low,Low,Medium High,Medium High,Dec,Par.,The Adventures of Tintin,2011,PG
+357,2292959,Low,Low,Low,Low,Low Medium,June-Sep,IFC,The Canyons,2013,R
+358,2872718,Low,Low,Low,Medium High,High,Oct-Nov,ORF,Nightcrawler,2014,R
+359,1605630,Low,Low,Low,Medium High,Medium High,Jan-May,Uni.,American Reunion,2012,R
+360,1414382,Low,Low,Low,Medium,Medium,June-Sep,BV,You Again,2010,PG
+361,1320244,Low,Low,Low,Medium High,Medium,June-Sep,LGF,The Last Exorcism,2010,PG-13
+362,1001508,Low,Low,Low,Medium High,Medium High,Jan-May,WB (NL),He's Just Not That Into You,2009,PG-13
+363,1213663,Low,Low,Low,Low Medium,Medium High,June-Sep,Focus,The World's End,2013,R
+364,873886,Low,Low,Low,Low,Medium,Jan-May,SMod,Red State,2011,R
+365,1843866,Low Medium,Low Medium,Medium,High,High,Jan-May,BV,Captain America: The Winter Soldier,2014,PG-13
+366,1259571,Low,Low Medium,High,High,Low Medium,Oct-Nov,Sum.,The Twilight Saga: New Moon,2009,PG-13
+367,1566501,Low,Low,Low,Low,Medium High,June-Sep,ArcEnt,For Greater Glory,2012,R
+368,1915581,Low,Low,Low Medium,Medium High,Medium,June-Sep,WB,Magic Mike,2012,R
+369,878804,Low,Low Medium,Low,Medium High,High,Oct-Nov,WB,The Blind Side,2009,PG-13
+370,1411664,Low,Low,Low,Low Medium,Low,June-Sep,Sony,Bucky Larson: Born to Be a Star,2011,R
+371,1144884,Low,Low,Low,Medium High,Medium,June-Sep,WB (NL),The Final Destination,2009,R
+372,1182350,Low,Low,Low,Low,Medium High,June-Sep,SPC,You Will Meet a Tall Dark Stranger,2010,R
+373,837562,Low,Low,Low Medium,Medium High,Medium High,June-Sep,Sony,Hotel Transylvania,2012,PG
+374,1095174,Low,Low,Low,Medium,Medium,Jan-May,LGF,New in Town,2009,PG-13
+375,454876,Low Medium,Low,Low,Medium High,High,Oct-Nov,Fox,Life of Pi,2012,PG
+376,433035,Low Medium,Low,Low,Medium High,Medium High,Oct-Nov,BV,Real Steel,2011,PG-13
+377,978764,Low,Low,Low,Medium High,Medium,Jan-May,WB,Sucker Punch,2011,PG-13
+378,1234719,Low,Low,Low,Medium High,Medium,Oct-Nov,FD,Red Dawn ,2012,PG-13
+379,1486192,Low,Low,Low,Medium,Medium High,Jan-May,Rela.,The Raven,2012,R
+380,1486193,Low,Low,Low,Low,Medium,June-Sep,Anch.,5 Days of War,2011,R
+381,985694,Low,Low,Low,Medium,Medium High,June-Sep,Fox,Machete,2010,R
+382,1564349,Low,Low,Low,Medium High,Medium High,June-Sep,WB,Dolphin Tale,2011,PG
+383,1798291,Low,Low,Low,Low,Medium High,June-Sep,Mont.,This is Martin Bonner,2013,R
+384,2177771,Low,Low,Low,Medium High,Medium,Jan-May,Sony,The Monuments Men,2014,PG-13
+385,1322269,Low,Low,Low,Low,Medium High,Dec,Wein.,August: Osage County,2013,R
+386,1130884,Low,Low,Low Medium,Medium High,High,Jan-May,Par.,Shutter Island,2010,R
+387,1636826,Low,Low,Low,Medium High,Medium High,Jan-May,WB,Project X,2012,R
+388,1198138,Low,Low,Low,Medium,Low Medium,Jan-May,SGem,Obsessed,2009,PG-13
+389,1245492,Low,Low,Low,Medium High,Medium High,June-Sep,Sony,This is the End,2013,R
+390,1284575,Low,Low,Low,Medium High,Medium,June-Sep,Sony,Bad Teacher,2011,R
+391,1464174,Low,Low,Low,Medium High,Low Medium,Jan-May,Fox,"Big Mommas: Like Father, Like Son",2011,PG-13
+392,479997,Low,Low,Low,Medium High,Medium,Jan-May,Rela.,Season of the Witch,2011,PG-13
+393,466893,Low,Low,Low,Low,Medium High,June-Sep,FoxS,Margaret,2011,R
+394,1723121,Low,Low Medium,Low,Medium High,Medium High,June-Sep,WB,We're the Millers,2013,R
+395,1517260,Low,Low,Low,Medium High,Medium,Jan-May,ORF,The Host ,2013,PG-13
+396,1179056,Low,Low,Low,Medium High,Medium,Jan-May,WB (NL),A Nightmare on Elm Street ,2010,R
+397,1591479,Low,Low,Low,Medium High,Medium High,Jan-May,Rela.,Act of Valor,2012,R
+398,1707386,Low,Low,Low,Medium High,High,Dec,Uni.,Les Miserables ,2012,PG-13
+399,2467046,Low,Low,Low,Medium,Low,Oct-Nov,Free,Left Behind ,2014,PG-13
+400,2752688,Low,Low,Low,Low,Medium High,Oct-Nov,ORF,Rosewater,2014,R
+401,472181,Low Medium,Low,Low Medium,Medium High,Medium,June-Sep,Sony,The Smurfs,2011,PG
+402,1663662,Medium,Low,Low Medium,Medium High,Medium High,June-Sep,WB,Pacific Rim,2013,PG-13
+403,2234155,Low,Low,Low,Medium High,Medium High,June-Sep,Fox,The Internship,2013,PG-13
+404,2083355,Low,Low,Low,Medium,Medium High,Oct-Nov,Uni.,The Best Man Holiday,2013,R
+405,1041829,Low,Low Medium,Low,Medium High,Medium High,June-Sep,BV,The Proposal,2009,PG-13
+406,1971352,Low,Low,Low,Low,Medium High,June-Sep,Magn.,Compliance,2012,R
+407,1446192,Low Medium,Low,Low,High,Medium High,Oct-Nov,P/DW,Rise of the Guardians,2012,PG
+408,1055292,Low,Low,Low,Medium High,Medium High,Oct-Nov,WB,Life as We Know It,2010,PG-13
+409,962736,Low,Low,Low,Low,Medium High,Dec,App.,The Young Victoria,2009,PG
+410,1991245,Low,Low,Low,Medium,Low Medium,Jan-May,WB,Chernobyl Diaries,2012,R
+411,1171222,Low,Low,Low,Medium,Low Medium,June-Sep,FoxS,Baggage Claim,2013,PG-13
+412,1343727,Low,Low,Low,Medium,Medium High,June-Sep,LGF,Dredd,2012,R
+413,1195478,Low,Low,Low,Medium High,Medium,Jan-May,Uni.,The Five-Year Engagement,2012,R
+414,790724,Low,Low,Low,Medium High,Medium High,Dec,Par.,Jack Reacher,2012,PG-13
+415,2167202,Low,Low,Low,Medium,Low Medium,June-Sep,WB,Getaway ,2013,PG-13
+416,963178,Low,Low,Low,Medium,Medium High,Jan-May,Sony,The International,2009,R
+417,2310332,Medium,Low Medium,Low Medium,High,Medium High,Dec,WB,The Hobbit: The Battle of the Five Armies,2014,PG-13
+418,2024544,Low,Low,Low,Low,High,Oct-Nov,FoxS,12 Years a Slave,2013,R
+419,1055369,Medium,Medium,Medium High,High,Medium,June-Sep,P/DW,Transformers: Revenge of the Fallen,2009,PG-13
+420,1172994,Low,Low,Low,Low,Medium High,Oct-Nov,Magn.,The House of the Devil,2009,R
+421,1436562,Low Medium,Low,Low Medium,High,Medium High,Jan-May,Fox,Rio,2011,PG
+422,1483013,Low Medium,Low,Low Medium,High,Medium High,Jan-May,Uni.,Oblivion,2013,PG-13
+423,964517,Low,Low,Low,Low,High,Dec,Par.,The Fighter,2010,R
+424,2180411,Low,Low,Low,Medium,Medium,Dec,BV,Into the Woods,2014,PG
+425,2024432,Low,Low,Low,Medium High,Medium,Jan-May,Uni.,Identity Thief,2013,R
+426,1152398,Low,Low,Low,Medium,Medium,Jan-May,CBS,Beastly,2011,PG-13
+427,1562568,Low,Low,Low,Low,Medium High,June-Sep,SPC,Higher Ground,2011,R
+428,2245084,Low Medium,Low Medium,Low Medium,High,High,Oct-Nov,BV,Big Hero 6,2014,PG
+429,1130080,Low,Low,Low,Low,Medium High,Jan-May,SenD,The Informers,2009,R
+430,2101341,Low,Low,Low,Medium,Medium High,Jan-May,FD,Dead Man Down,2013,R
+431,1294226,Low,Low,Low,Medium,Medium,Jan-May,BV,The Last Song,2010,PG
+432,935075,Low,Low,Low,Low,Medium High,Dec,LGF,Rabbit Hole,2010,PG-13
+433,844471,Low Medium,Low,Low,Medium High,Medium High,June-Sep,Sony,Cloudy with a Chance of Meatballs,2009,PG
+434,1320253,Low,Low,Low,Medium High,Medium High,June-Sep,LGF,The Expendables,2010,R
+435,1291584,Low,Low,Low,Medium,High,June-Sep,LGF,Warrior,2011,PG-13
+436,2910274,Low,Low,Low,Low,Medium High,June-Sep,A24,Obvious Child,2014,R
+437,1800241,Low,Low Medium,Low,Low,Medium High,Dec,Sony,American Hustle,2013,R
+438,1823664,Low,Low,Low,Medium High,Medium,Dec,Sony,Annie ,2014,PG
+439,1667310,Low,Low,Low,Low,Medium High,Dec,Magn.,Deadfall ,2012,PG-13
+440,1535109,Low,Low,Low,Medium High,High,Oct-Nov,Sony,Captain Phillips,2013,PG-13
+441,2017020,Low Medium,Low,Low,High,Medium,June-Sep,Sony,The Smurfs 2,2013,PG
+442,878835,Low,Low,Low,Low,Medium High,Jan-May,SPC,Please Give,2010,R
+443,1951265,Low Medium,Medium,Medium High,High,Medium High,Oct-Nov,LGF,The Hunger Games: Mockingjay - Part 1,2014,PG-13
+444,1408101,Medium,Low Medium,Medium,High,High,Jan-May,Par.,Star Trek Into Darkness,2013,PG-13
+445,2239832,Low,Low,Low,Medium,Medium,June-Sep,SGem,Think Like a Man Too,2014,PG-13
+446,1547234,Low,Low,Low,Medium,Medium High,June-Sep,Sony,Premium Rush,2012,PG-13
+447,2172935,Low,Low,Low,Low,Medium High,June-Sep,PH,Metallica Through the Never,2013,R
+448,955308,Medium,Low,Low Medium,Medium High,Medium High,Jan-May,Uni.,Robin Hood,2010,PG-13
+449,1615147,Low,Low,Low,Low,Medium High,Oct-Nov,RAtt.,Margin Call,2011,R
+450,481499,Low Medium,Low Medium,Low Medium,High,Medium High,Jan-May,Fox,The Croods,2013,PG
+451,1016075,Low,Low,Low,Medium High,Low Medium,June-Sep,MGM,Fame ,2009,PG
+452,1139328,Low,Low,Low,Low,Medium High,Jan-May,Sum.,The Ghost Writer,2010,PG-13
+453,1182345,Low,Low,Low,Low,High,June-Sep,SPC,Moon,2009,R
+454,1153706,Low,Low,Low,Medium,Low,Jan-May,Par.,Dance Flick,2009,PG-13
+455,1854564,Low Medium,Low,Low,Medium High,Medium,June-Sep,Fox,Percy Jackson: Sea of Monsters,2013,PG
+456,1536044,Low,Low,Low Medium,Medium High,Medium,Oct-Nov,Par.,Paranormal Activity 2,2010,R
+457,1606389,Low,Low,Low Medium,Medium High,Medium High,Jan-May,SGem,The Vow,2012,PG-13
+458,1034032,Low,Low,Low,Medium,Medium,June-Sep,LGF,Gamer,2009,R
+459,453562,Low,Low,Low,Medium High,Medium High,Jan-May,WB,42,2013,PG-13
+460,1188996,Low,Low,Low,Low,High,Jan-May,FoxS,My Name is Khan,2010,PG-13
+461,1706593,Low,Low,Low,Medium High,Medium High,Jan-May,Fox,Chronicle ,2012,PG-13
+462,1197628,Low,Low,Low,Medium High,Medium,Jan-May,WB,Observe and Report,2009,R
+463,1748122,Low,Low,Low,Low,High,Jan-May,Focus,Moonrise Kingdom,2012,PG-13
+464,1587310,Medium,Low Medium,Low Medium,High,Medium High,Jan-May,BV,Maleficent,2014,PG
+465,1197624,Low,Low,Low,Medium High,Medium High,Oct-Nov,Over.,Law Abiding Citizen,2009,R
+466,1405500,Low,Low,Low,Medium,Medium,Oct-Nov,LGF,For Colored Girls,2010,R
+467,1075747,Low,Low,Low,Medium High,Low Medium,June-Sep,WB,Jonah Hex,2010,PG-13
+468,1931435,Low,Low,Low,Medium,Medium,Jan-May,LGF,The Big Wedding,2013,R
+469,1276104,Low,Low,Low,Medium High,Medium High,June-Sep,TriS,Looper,2012,R
+470,1448755,Low,Low,Low,Medium High,Medium High,June-Sep,ORF,Killer Elite,2011,R
+471,2357129,Low,Low,Low,Medium,Medium,June-Sep,ORF,Jobs,2013,PG-13
+472,472198,Low,Low,Low,Low Medium,Medium High,Jan-May,FoxS,Notorious ,2009,R
+473,1019452,Low,Low,Low,Low,Medium High,Oct-Nov,Focus,A Serious Man,2009,R
+474,780567,Low,Low,Low,Medium High,Medium,June-Sep,Par.,Imagine That,2009,PG
+475,1403865,Low,Low Medium,Low,Medium High,High,Dec,Par.,True Grit,2010,PG-13
+476,1174732,Low,Low,Low,Low,Medium High,Oct-Nov,SPC,An Education,2009,PG-13
+477,2390361,Low,Low,Low,Low,Medium High,June-Sep,FoxS,Enough Said,2013,PG-13
+478,1667889,Low Medium,Low Medium,Low Medium,High,Medium High,June-Sep,Fox,Ice Age: Continental Drift,2012,PG
+479,1305591,Low Medium,Low,Low,Medium High,Medium,Jan-May,BV,Mars Needs Moms,2011,PG
+480,1922685,Low,Low,Low,Low Medium,Medium,Jan-May,RCR,Phantom ,2013,R
+481,1351685,Medium,Low,Low,Medium High,Medium High,Jan-May,WB (NL),Jack the Giant Slayer,2013,PG-13
+482,790628,Low,Low,Low,Medium High,Medium,Jan-May,WB,The Incredible Burt Wonderstone,2013,PG-13
+483,1270798,Low Medium,Low,Low Medium,High,High,June-Sep,Fox,X-Men: First Class,2011,PG-13
+484,1778304,Low,Low,Low Medium,Medium High,Medium,Oct-Nov,Par.,Paranormal Activity 3,2011,R
+485,947810,Low Medium,Low,Low,Medium High,Medium High,Jan-May,Uni.,Green Zone,2010,R
+486,1371111,Low Medium,Low,Low,Medium,Medium High,Oct-Nov,WB,Cloud Atlas,2012,R
+487,1392197,Low,Low,Low,Medium High,Low Medium,June-Sep,Fox,Marmaduke,2010,PG
+488,1156398,Low,Low,Low,Medium High,High,Oct-Nov,Sony,Zombieland,2009,R
+489,1300854,Medium,Medium,High,High,Medium High,Jan-May,BV,Iron Man 3,2013,PG-13
+490,1666186,Low,Low,Low,Medium High,Low,June-Sep,Fox,Vampires Suck,2010,PG-13
+491,1800246,Low,Low,Low,Medium High,Medium,Jan-May,Focus,That Awkward Moment,2014,R
+492,2404463,Low,Low Medium,Low Medium,Medium High,Medium High,June-Sep,Fox,The Heat,2013,R
+493,1781769,Low,Low,Low,Low,Medium High,Oct-Nov,Focus,Anna Karenina,2012,R
+494,980970,Low Medium,Low,Low,Medium High,Medium High,Dec,Fox,The Chronicles of Narnia: The Voyage of the Dawn Treader,2010,PG
+495,1185836,Low,Low,Low,Low,Medium High,June-Sep,FoxS,Adam,2009,PG-13
+496,1024648,Low,Low,Low,Medium High,High,Oct-Nov,WB,Argo,2012,R
+497,1588173,Low,Low,Low,Medium High,Medium High,Jan-May,LG/S,Warm Bodies,2013,PG-13
+498,999913,Low,Low,Low,Medium,Medium,June-Sep,SGem,Straw Dogs ,2011,R
+499,2828996,Low,Low,Low,Medium,Low Medium,Jan-May,ORF,A Haunted House 2,2014,R
+500,1033575,Low,Low,Low,Low,Medium High,Oct-Nov,FoxS,The Descendants,2011,R
+501,2872732,Low,Low,Low Medium,Medium High,Medium High,June-Sep,Uni.,Lucy,2014,R
+502,2002718,Low,Low,Low,Medium,Medium,Oct-Nov,ORF,Machete Kills,2013,R
+503,842926,Low,Low,Low,Low,Medium High,June-Sep,Focus,The Kids Are All Right,2010,R
+504,1742650,Low,Low,Low,Medium,Low Medium,June-Sep,Wein.,I Don't Know How She Does It,2011,PG-13
+505,1078940,Low,Low,Low,Medium High,Medium,Oct-Nov,Uni.,Couples Retreat,2009,PG-13
+506,1001526,Low Medium,Low,Low Medium,High,Medium High,Oct-Nov,P/DW,Megamind,2010,PG
+507,938283,Low Medium,Low,Low Medium,Medium High,Low Medium,June-Sep,Par.,The Last Airbender,2010,PG
+508,1541995,Low,Low,Low,Low,Medium,June-Sep,FoxS,Snow Flower and the Secret Fan,2011,PG-13
+509,1815862,Low Medium,Low,Low,Medium High,Low Medium,Jan-May,Sony,After Earth,2013,PG-13
+510,899106,Low,Low,Low,Medium,Medium,June-Sep,Uni.,Love Happens,2009,PG-13
+511,2017038,Low,Low,Low,Low,Medium High,Oct-Nov,RAtt.,All Is Lost,2013,PG-13
+512,1598828,Low,Low,Low,Medium High,Medium,Jan-May,LGF,One For the Money,2012,PG-13
+513,1772240,Low,Low,Low,Medium High,Medium,June-Sep,W/Dim.,Apollo 18,2011,PG-13
+514,2334879,Low Medium,Low,Low,Medium High,Medium High,June-Sep,Sony,White House Down,2013,PG-13
+515,1862079,Low,Low,Low,Low,Medium High,June-Sep,FD,Safety Not Guaranteed,2012,R
+516,1758575,Low,Low,Low,Low,Medium,Jan-May,RAtt.,Blue Like Jazz,2012,PG-13
+517,1675192,Low,Low,Low,Low,Medium High,June-Sep,SPC,Take Shelter,2011,R
+518,1682180,Low,Low,Low,Low,Medium High,Jan-May,FoxS,Stoker,2013,R
+519,1188729,Low,Low,Low,Medium,Medium High,June-Sep,Over.,Pandorum,2009,R
+520,775489,Low,Low,Low,Low,Medium High,Dec,SPC,The Illusionist ,2010,PG
+521,2106361,Low,Low,Low,Medium High,Medium,June-Sep,WB,Into The Storm,2014,PG-13
+522,875034,Low,Low,Low,Low,Medium,Dec,Wein.,Nine,2009,PG-13
+523,1274300,Low,Low,Low,Low,Medium,Dec,Mira.,The Tempest,2010,PG-13
+524,903624,Medium,Medium,Medium,High,High,Dec,WB,The Hobbit: An Unexpected Journey,2012,PG-13
+525,1323045,Low Medium,Low,Low,Low,Medium,Jan-May,Anch.,Frozen ,2010,R
+526,1564585,Low,Low,Low,Medium High,Low Medium,Oct-Nov,Uni.,Skyline,2010,PG-13
+527,1564367,Low,Low,Low,Medium High,Medium High,Jan-May,Sony,Just Go With It,2011,PG-13
+528,2140373,Low,Low,Low,Low,Medium High,Dec,BV,Saving Mr. Banks,2013,PG-13
+529,1306980,Low,Low,Low,Medium,High,June-Sep,Sum.,50/50,2011,R
+530,1621045,Low,Low,Low,Medium,Medium High,Jan-May,SGem,Think Like a Man,2012,PG-13
+531,840361,Low,Low,Low,Medium High,High,June-Sep,WB,The Town,2010,R
+532,2229499,Low,Low,Low,Medium,Medium High,June-Sep,Rela.,Don Jon,2013,R
+533,1133985,Medium,Low,Low Medium,High,Medium,June-Sep,WB,Green Lantern,2011,PG-13
+534,892318,Low,Low,Low,Medium High,Medium High,Jan-May,Sum.,Letters to Juliet,2010,PG
+535,1253863,Low Medium,Low,Low Medium,Medium High,Medium High,Jan-May,WB,300: Rise of An Empire,2014,R
+536,1602098,Low,Low,Low,Low,Medium High,Jan-May,RAtt.,Albert Nobbs,2012,R
+537,1253864,Low,Low,Low,Medium High,Medium,Oct-Nov,Rela.,Immortals,2011,R
+538,808151,Low Medium,Low,Low Medium,Medium High,Medium High,Jan-May,Sony,Angels & Demons,2009,PG-13
+539,1103982,Low,Low,Low,Low,Medium,Jan-May,Magn.,The Girlfriend Experience,2009,R
+540,362478,Low,Low,Low,Medium,Medium,Oct-Nov,WB,The Box,2009,PG-13
+541,1634122,Low,Low,Low,Low Medium,Medium High,Oct-Nov,Uni.,Johnny English Reborn,2011,PG
+542,800369,Low Medium,Low Medium,Low Medium,High,Medium High,Jan-May,Par.,Thor,2011,PG-13
+543,1371150,Low,Low,Low,Medium High,Medium High,June-Sep,WB,This is Where I Leave You,2014,R
+544,1931533,Low,Low,Low,Low Medium,Medium High,Oct-Nov,CBS,Seven Psychopaths,2012,R
+545,1598822,Low,Low,Low,Medium High,Medium,Dec,WB (NL),New Year's Eve,2011,PG-13
+546,1798709,Low,Low,Low,Low,High,Dec,WB,Her ,2013,R
+547,1210039,Low,Low,Low,Low,Medium High,Jan-May,Pala.,Blood Done Sign My Name,2010,PG-13
+548,1430612,Low,Low,Low,Medium,Medium,Jan-May,Rela.,Brick Mansions,2014,PG-13
+549,947798,Low,Low,Low,Low,High,Dec,FoxS,Black Swan,2010,R
+550,1313092,Low,Low,Low,Low,Medium High,June-Sep,SPC,Animal Kingdom,2010,R
+551,1540133,Low,Low,Low,Low,Medium High,June-Sep,SPC,The Guard,2011,R
+552,1228705,Low Medium,Medium,Medium High,High,Medium High,Jan-May,Par.,Iron Man 2,2010,PG-13
+553,1097013,Low,Low,Low,Low Medium,Medium,Jan-May,Sum.,Next Day Air,2009,R
+554,1611224,Low,Low,Low,Medium High,Medium,June-Sep,Fox,Abraham Lincoln: Vampire Hunter,2012,R
+555,790636,Low,Low,Low,Low,High,Oct-Nov,Focus,Dallas Buyers Club,2013,R
+556,1623288,Low,Low,Low,Medium High,Medium High,June-Sep,Focus,ParaNorman,2012,PG
+557,1386588,Low Medium,Low,Low Medium,High,Medium High,June-Sep,Sony,The Other Guys,2010,PG-13
+558,1454468,Low Medium,Low Medium,Low Medium,High,High,Oct-Nov,WB,Gravity,2013,PG-13
+559,816692,Low Medium,Low Medium,Low Medium,Medium High,High,Oct-Nov,Par.,Interstellar,2014,PG-13
+560,1650062,Low,Low,Low,Low,Medium High,Jan-May,IFC,Super,2011,PG-13
+561,1217209,Medium,Low Medium,Low Medium,High,Medium High,June-Sep,BV,Brave,2012,PG
+562,1411250,Low,Low,Low,Medium High,Medium High,June-Sep,Uni.,Riddick,2013,R
+563,844708,Low,Low,Low,Medium,Medium High,Jan-May,Uni.,The Last House on the Left ,2009,R
+564,1343092,Medium,Low,Low Medium,Medium High,Medium High,Jan-May,WB,The Great Gatsby ,2013,PG-13
+565,796366,Low Medium,Low Medium,Medium,High,High,Jan-May,Par.,Star Trek,2009,PG-13
+566,2465146,Low,Low,Low,Low Medium,Medium,June-Sep,CE,And So It Goes,2014,PG-13
+567,1142433,Low,Low,Low,Medium,Medium,June-Sep,Fox,Post Grad,2009,PG-13
+568,1298649,Low,Low,Low,Medium High,Medium,June-Sep,Fox,The Watch,2012,R
+569,1232200,Low,Low,Low,Medium High,Medium,June-Sep,Sony,That's My Boy,2012,R
+570,361748,Low,Low,Low Medium,Medium High,High,June-Sep,Wein.,Inglourious Basterds,2009,R
+571,1131734,Low,Low,Low,Medium High,Medium,June-Sep,Fox,Jennifer's Body,2009,R
+572,455407,Low,Low,Low,Medium,Medium High,Jan-May,Over.,The Crazies,2010,R
+573,1047540,Low,Low,Low,Medium High,Medium,Dec,Fox,Parental Guidance,2012,PG
+574,1259521,Low,Low,Low,Medium High,Medium High,Jan-May,LGF,The Cabin in the Woods,2012,R
+575,1318514,Low Medium,Low Medium,Low Medium,High,High,June-Sep,Fox,Rise of the Planet of the Apes,2011,PG-13
+576,1764183,Low,Low,Low,Low,Medium High,June-Sep,RAtt.,Arbitrage,2012,R
+577,1385826,Low,Low,Low,Medium High,Medium High,Jan-May,Uni.,The Adjustment Bureau,2011,PG-13
+578,1462041,Low,Low,Low,Medium,Medium,June-Sep,Uni.,Dream House,2011,PG-13
+579,1106860,Low,Low,Low,Low,Medium,Jan-May,RAtt.,Ca$h,2010,R
+580,2980516,Low,Low,Low,Low,High,Oct-Nov,Focus,The Theory of Everything,2014,PG-13
+581,1129445,Low,Low,Low,Low,Medium,Oct-Nov,FoxS,Amelia,2009,PG
+582,1764234,Low,Low,Low,Medium,Medium,Oct-Nov,Wein.,Killing Them Softly,2012,R
+583,892782,Medium,Low Medium,Low Medium,High,Medium High,Jan-May,P/DW,Monsters Vs. Aliens,2009,PG
+584,1532958,Low,Low,Low,Medium,Low Medium,June-Sep,SGem,Battle of the Year,2013,PG-13
+585,970866,Low Medium,Low,Low,Medium High,Medium,Dec,Uni.,Little Fockers,2010,PG-13
+586,1053424,Low,Low,Low,Medium,Medium High,Jan-May,Uni.,Repo Men,2010,R
+587,2910814,Low,Low,Low,Low,Medium,June-Sep,Focus,The Signal ,2014,PG-13
+588,1320261,Low Medium,Low,Low,Medium,Low Medium,Dec,Fox,Gulliver's Travels,2010,PG
+589,1655420,Low,Low,Low,Low,Medium High,Oct-Nov,Wein.,My Week with Marilyn,2011,R
+590,2349460,Low,Low,Low,Low,Medium,Oct-Nov,RAtt.,Grace Unplugged,2013,PG
+591,1311067,Low,Low,Low,Medium High,Low Medium,June-Sep,W/Dim.,Halloween II ,2009,R
+592,1161864,Low,Low,Low,Medium High,Medium,Jan-May,WB (NL),The Rite,2011,PG-13
+593,1985966,Low,Low,Low,High,Medium High,June-Sep,Sony,Cloudy with a Chance of Meatballs 2,2013,PG
+594,976222,Low,Low,Low,Medium,Medium High,June-Sep,Sum.,Bandslam,2009,PG
+595,1135487,Low,Low,Low,Medium,Medium,Jan-May,Uni.,Duplicity,2009,PG-13
+596,446029,Low,Low,Low,Medium High,Medium High,June-Sep,Uni.,Scott Pilgrim vs. the World,2010,PG-13
+597,2215285,Low,Low,Low,Medium,Low Medium,June-Sep,LGF,Tyler Perry's Madea's Witness Protection,2012,PG-13
+598,1498569,Low,Low,Low,Low,Medium High,June-Sep,SPC,Restless ,2011,PG-13
+599,1972571,Low,Low,Low,Low,Medium High,June-Sep,RAtt.,A Most Wanted Man,2014,R
+600,795438,Low,Low,Low,Low,Medium,Jan-May,SGem,Not Easily Broken,2009,PG-13
+601,421237,Low,Low,Low,Low,Low,Jan-May,21CF,Royal Kill,2009,PG-13
+602,1333125,Low,Low,Low,Medium,Low Medium,Jan-May,Rela.,Movie 43,2013,R
+603,1629705,Low,Low,Low,Low,Medium High,Oct-Nov,Magn.,Blackthorn,2011,R
+604,1798243,Low,Low,Low,Low,Medium High,Oct-Nov,Gold.,Rudderless,2014,R
+605,1586752,Low,Low,Low,Low,Medium High,June-Sep,Rela.,Machine Gun Preacher,2011,R
+606,2023587,Low,Low,Low,Medium,Medium,Jan-May,Uni.,Mama,2013,PG-13
+607,1509767,Low Medium,Low,Low,Medium High,Medium,Oct-Nov,Sum.,The Three Musketeers ,2011,PG-13
+608,1870529,Low,Low,Low,Medium,Medium High,June-Sep,Fox,Won't Back Down,2012,PG
+609,1540128,Low,Low,Low,Medium High,Medium,Dec,FD,Playing for Keeps,2012,PG-13
+610,831387,Low Medium,Low Medium,Medium,High,Medium High,Jan-May,WB,Godzilla ,2014,PG-13
+611,1201167,Low,Low,Low,Medium High,Medium High,June-Sep,Uni.,Funny People,2009,R
+612,963966,Low Medium,Low,Low,Medium High,Medium,June-Sep,BV,The Sorcerer's Apprentice,2010,PG
+613,1392170,Low,Medium,High,High,Medium High,Jan-May,LGF,The Hunger Games,2012,PG-13
+614,1837703,Low,Low,Low,Low Medium,Medium,Oct-Nov,BV,The Fifth Estate,2013,R
+615,2023453,Low,Low,Low,Medium High,Medium High,June-Sep,Fox,Diary of a Wimpy Kid: Dog Days,2012,PG
+616,1078588,Low,Low,Low,Medium,Medium High,June-Sep,WB,My Sister's Keeper,2009,PG-13
+617,1814621,Low,Low,Low,Medium,Medium,Jan-May,Focus,Admission,2013,PG-13
+618,2024469,Low,Low,Low,Medium High,Medium High,Jan-May,Uni.,Non-Stop,2014,PG-13
+619,3210686,Low,Low,Low,Medium High,Medium,Jan-May,Fox,Son of God,2014,PG-13
+620,1441326,Low,Low,Low,Low,Medium High,Oct-Nov,FoxS,Martha Marcy May Marlene,2011,R
+621,488604,Low,Low,Low,Low,Medium,June-Sep,Magn.,The Oxford Murders,2010,R
+622,1758830,Low,Low,Low,Medium High,Medium,Dec,Uni.,This Is 40,2012,R
+623,1045778,Low,Low,Low,Medium High,Low Medium,June-Sep,Sony,Year One,2009,PG-13
+624,409459,Low Medium,Low,Low Medium,High,High,Jan-May,WB,Watchmen,2009,R
+625,1298650,Medium,Low Medium,Medium,High,Medium High,Jan-May,BV,Pirates of the Caribbean: On Stranger Tides,2011,PG-13
+626,1234721,Low Medium,Low,Low,Medium High,Medium,Jan-May,Sony,RoboCop ,2014,PG-13
+627,1866249,Low,Low,Low,Low,Medium High,Oct-Nov,FoxS,The Sessions,2012,R
+628,2784678,Low,Low,Low,Low Medium,Medium High,Dec,Par.,Top Five,2014,R
+629,2084970,Low,Low,Low,Low,High,Oct-Nov,Wein.,The Imitation Game,2014,PG-13
+630,2318092,Low,Low,Low,Medium High,Medium High,Jan-May,Uni.,Endless Love ,2014,PG-13
+631,2788710,Low,Low,Low,Low,Medium High,Dec,Sony,The Interview ,2014,R
+632,892791,Low Medium,Low Medium,Medium,High,Medium High,Jan-May,P/DW,Shrek Forever After,2010,PG
+633,2692250,Low Medium,Low,Low,High,Medium High,Dec,Fox,Night at the Museum: Secret of the Tomb,2014,PG
+634,865559,Low,Low,Low,Low Medium,Medium,June-Sep,FoxS,My Life in Ruins,2009,PG-13
+635,417741,Medium,Medium,Medium,High,Medium High,June-Sep,WB,Harry Potter and the Half-Blood Prince,2009,PG
+636,1314228,Low,Low,Low,Medium High,Low Medium,Dec,Sony,Did You Hear About the Morgans?,2009,PG-13
+637,365929,Low,Low,Low,Medium High,Medium,June-Sep,WB,Whiteout,2009,R
+638,1205537,Low,Low,Low,Medium High,Medium,Jan-May,Par.,Jack Ryan: Shadow Recruit,2014,PG-13
+639,2265398,Low,Low,Low,Low,Medium,June-Sep,Magn.,Drinking Buddies,2013,R
+640,1161418,Low,Low,Low,Low,Medium,Oct-Nov,FoxS,Gentlemen Broncos,2009,PG-13
+641,2103281,Low Medium,Low Medium,Medium,High,High,June-Sep,Fox,Dawn of the Planet of the Apes,2014,PG-13
+642,795441,Low,Low,Low,Low,Medium High,Jan-May,SPC,Winter in Wartime,2011,R
+643,1568338,Low,Low,Low,Medium High,Medium High,Jan-May,LG/S,Man on a Ledge,2012,PG-13
+644,1656190,Low,Low,Low,Medium,Medium High,Jan-May,LGF,Safe ,2012,R
+645,1792647,Low,Low,Low,Low,Medium High,Dec,Par.,Cirque Du Soleil: Worlds Away,2012,PG
+646,2333784,Low Medium,Low,Low,Medium High,Medium,June-Sep,LGF,The Expendables 3,2014,PG-13
+647,1242460,Low,Low,Low,Low,Medium High,Dec,Osci.,We Need to Talk About Kevin,2011,R
+648,1245526,Low,Low,Low,Medium High,Medium High,Oct-Nov,Sum.,Red,2010,PG-13
+649,1748179,Low,Low,Low,Low,Medium,June-Sep,MNE,Red Lights ,2012,R
+650,1826590,Low,Low,Low,Medium,Medium,Jan-May,SGem,About Last Night ,2014,R
+651,1648179,Low,Low,Low,Medium High,Medium High,Oct-Nov,Sony,Here Comes the Boom,2012,PG
+652,1517489,Low,Low,Low,Medium High,Low,June-Sep,W/Dim.,Spy Kids: All the Time in the World,2011,PG
+653,1605803,Low,Low,Low,Low,Medium,June-Sep,MBox,Last Ride,2012,PG-13
+654,1148204,Low,Low,Low,Medium High,Medium High,June-Sep,WB,Orphan,2009,R
+655,472033,Low,Low,Low,Low Medium,Medium High,June-Sep,Focus,9,2009,PG-13
+656,1477837,Low,Low,Low,Low,Medium High,Jan-May,FoxS,Cedar Rapids,2011,R
+657,3063516,Low,Low,Low,Medium High,Medium High,Oct-Nov,Par.,Jackass Presents: Bad Grandpa,2013,R
+658,1979320,Low,Low,Low,Low,High,June-Sep,Uni.,Rush ,2013,R
+659,2278388,Low,Low,Low,Low,High,Jan-May,FoxS,The Grand Budapest Hotel,2014,R
+660,1054606,Low,Low,Low,Low,Medium High,Dec,SPC,The Imaginarium of Doctor Parnassus,2009,PG-13
+661,1549572,Low,Low,Low,Low,Medium High,June-Sep,FoxS,Another Earth,2011,PG-13
+662,1038686,Low,Low,Low,Medium,Medium,Jan-May,SGem,Legion ,2010,R
+663,1458175,Low,Low,Low,Medium,Medium High,Oct-Nov,LGF,The Next Three Days,2010,PG-13
+664,1175709,Low,Low,Low,Low,Medium High,Dec,Magn.,All Good Things,2010,R
+665,1477715,Low,Low,Low,Medium High,Medium High,Oct-Nov,Sony,Michael Jackson's This Is It,2009,PG
+666,1111422,Low Medium,Low,Low,Medium High,Medium High,June-Sep,Sony,The Taking of Pelham 1 2 3,2009,R
+667,1939659,Low,Low,Low,Medium High,Medium,Oct-Nov,SGem,Carrie ,2013,R
+668,1231580,Low,Low Medium,Low Medium,High,Low Medium,Dec,Fox,Alvin and the Chipmunks: The Squeakquel,2009,PG
+669,1231583,Low,Low,Low,Medium High,Medium High,Oct-Nov,WB,Due Date,2010,R
+670,1231587,Low,Low,Low,Medium High,Medium High,Jan-May,MGM,Hot Tub Time Machine,2010,R
+671,1821549,Low,Low,Low,Low,High,Oct-Nov,Par.,Nebraska,2013,R
+672,2609912,Low,Low,Low,Low,Medium High,June-Sep,LG/S,Kevin Hart: Let Me Explain,2013,R
+673,1650043,Low,Low,Low,Medium High,Medium High,Jan-May,Fox,Diary of a Wimpy Kid: Rodrick Rules,2011,PG
+674,1692486,Low,Low,Low,Low,Medium High,Dec,SPC,Carnage ,2011,R
+675,1716777,Low,Low,Low,Medium,Medium High,June-Sep,BV,People Like Us,2012,PG-13
+676,359950,Low Medium,Low,Low,Medium High,Medium High,Dec,Fox,The Secret Life of Walter Mitty,2013,PG
+677,1321509,Low,Low,Low,Medium,Medium,Jan-May,SGem,Death at a Funeral ,2010,R
+678,1647668,Low,Low,Low,Medium High,Medium High,Jan-May,BV,Million Dollar Arm,2014,PG
+679,1020072,Low,Low,Low,Low,Medium High,Dec,Par.,Selma,2014,PG-13
+680,1267297,Low Medium,Low,Low,High,Medium,June-Sep,Par.,Hercules ,2014,PG-13
+681,1758692,Low,Low,Low,Low,Medium High,Oct-Nov,ParV,Like Crazy,2011,PG-13
+682,327597,Low,Low,Low,Medium,High,Jan-May,Focus,Coraline,2009,PG
+683,337692,Low,Low,Low,Low,Medium,Jan-May,Free,The Road ,2012,R
+684,817230,Low,Low,Low Medium,High,Medium,Jan-May,WB,Valentine's Day,2010,PG-13
+685,913354,Low,Low,Low,Medium,Medium,Dec,SGem,Armored,2009,PG-13
+686,1397280,Low,Low,Low Medium,High,Medium High,Oct-Nov,Fox,Taken 2,2012,PG-13
+687,1288558,Low,Low,Low,Medium High,Medium High,Jan-May,TriS,Evil Dead ,2013,R
+688,1366344,Low,Low,Low,Medium High,Medium,Dec,Fox,The Sitter,2011,R
+689,1229238,Low Medium,Low Medium,Low,Low,Medium High,Dec,Par.,Mission: Impossible - Ghost Protocol,2011,PG-13
+690,1411697,Low,Low Medium,Medium,High,Medium High,Jan-May,WB,The Hangover Part II,2011,R
+691,2125435,Low,Low,Low,Low,Medium High,June-Sep,FoxS,Beasts of the Southern Wild,2012,PG-13
+692,1376213,Low,Low,Low,Low,Medium,Jan-May,TFA,The Adventurer: The Curse of the Midas Box,2014,PG
+693,1524137,Low,Low,Low,Medium High,Medium High,Jan-May,Uni.,Contraband,2012,R
+694,1078912,Low Medium,Low Medium,Low Medium,High,Medium,Jan-May,Fox,Night at the Museum: Battle of the Smithsonian,2009,PG
+695,1091191,Low,Low,Low,Low,High,Dec,Uni.,Lone Survivor,2013,R
+696,901476,Low,Low,Low,Medium High,Medium,Jan-May,Fox,Bride Wars,2009,PG
+697,1756427,Low,Low,Low,Low,Low,Jan-May,Magn.,Rubber,2011,R
+698,1007018,Low,Low,Low,Low,Medium,June-Sep,Anch.,The Open Road,2009,PG-13
+699,1535612,Low,Low,Low,Low,Medium,Oct-Nov,Anch.,The Son of No One,2011,R
+700,2515086,Low,Low,Low,Medium High,Low Medium,June-Sep,TriS,One Direction: This is Us,2013,PG
+701,821642,Low,Low,Low,Medium,Medium High,Jan-May,P/DW,The Soloist,2009,PG-13
+702,1017451,Low,Low,Low,Low,Medium High,Jan-May,App.,The Runaways,2010,R
+703,810784,Low,Low,Low,Low,Medium High,June-Sep,App.,Bright Star,2009,PG
+704,1985017,Low,Low,Low,Low Medium,Medium,Oct-Nov,ADC,Atlas Shrugged: Part II,2012,PG-13
+705,1596365,Low,Low,Low,Medium High,Medium High,Jan-May,CBS,The Woman in Black,2012,PG-13
+706,1621039,Low,Low,Low,High,Medium,Oct-Nov,Rela.,Free Birds,2013,PG
+707,1212419,Low,Low,Low,Low,Medium High,Oct-Nov,WB,Hereafter,2010,PG-13
+708,1625346,Low,Low,Low,Low,Medium High,Dec,Par.,Young Adult,2011,R
+709,1216491,Low,Low,Low,Low,Medium High,Oct-Nov,Focus,Kill the Messenger,2014,R
+710,1321870,Low,Low,Low,Medium High,Medium High,Jan-May,WB,Gangster Squad,2013,R
+711,814335,Low,Low,Low,Medium High,Medium,Oct-Nov,SGem,The Stepfather ,2009,PG-13
+712,1341167,Low,Low,Low,Low,Medium High,Oct-Nov,Drft.,Four Lions,2010,R
+713,804497,Low,Low,Low,Low,Medium High,Oct-Nov,Focus,It's Kind of a Funny Story,2010,PG-13
+714,1634003,Low,Low,Low,Low,Medium High,June-Sep,Free,Underdogs,2013,PG
+715,905372,Low,Low,Low,Medium High,Medium,Oct-Nov,Uni.,The Thing ,2011,R
+716,1075417,Low,Low,Low,Medium High,Medium,Jan-May,BV,Race to Witch Mountain,2009,PG
+717,1103153,Low,Low,Low,Medium High,Medium,June-Sep,LGF,Killers,2010,PG-13
+718,1045658,Low,Low,Low,Low,High,Oct-Nov,Wein.,Silver Linings Playbook,2012,R
+719,889573,Low,Low,Low,Medium,Medium,June-Sep,Mira.,The Switch,2010,PG-13
+720,1226273,Low,Low,Low,Medium High,Medium High,Jan-May,WB,Edge of Darkness,2010,R
+721,1226271,Low,Low,Low,Low,High,Oct-Nov,SPC,The Damned United,2009,R
+722,1572315,Low,Low,Low,Medium,Low Medium,Jan-May,LGF,Texas Chainsaw 3D,2013,R
+723,401729,Medium High,Low,Low,High,Medium High,Jan-May,BV,John Carter,2012,PG-13
+724,1743720,Low,Low,Low,Low,Medium High,Jan-May,SPC,POM Wonderful Presents: The Greatest Movie Ever Sold,2011,PG-13
+725,1454029,Low,Low Medium,Low,Medium,High,June-Sep,BV,The Help,2011,PG-13
+726,1285016,Low,Low,Low,Medium High,High,Oct-Nov,Sony,The Social Network,2010,PG-13
+727,2713180,Low,Low,Low,Medium High,High,Oct-Nov,Sony,Fury ,2014,R
+728,380510,Low Medium,Low,Low,Low,Medium High,Dec,P/DW,The Lovely Bones,2009,PG-13
+729,1399103,Medium,Medium,Medium,High,Medium High,June-Sep,P/DW,Transformers: Dark of the Moon,2011,PG-13
+730,1605783,Low,Low,Low,Low,High,Jan-May,SPC,Midnight in Paris,2011,PG-13
+731,1907639,Low,Low,Low,Low,Medium,June-Sep,RM,Hardflip,2012,PG-13
+732,1462054,Low,Low,Low,Low Medium,Medium,Jan-May,Viv.,Letters to God,2010,PG
+733,1418377,Low,Low,Low,Medium High,Medium,Jan-May,LGF,"I, Frankenstein",2014,PG-13
+734,1790886,Low Medium,Low,Low,Medium High,Medium,June-Sep,WB,The Campaign,2012,R
+735,1790885,Low,Low,Low,Low,Medium High,Dec,Sony,Zero Dark Thirty,2012,R
+736,1515091,Low Medium,Low Medium,Low Medium,High,Medium High,Dec,WB,Sherlock Holmes: A Game of Shadows,2011,PG-13
+737,1563738,Low,Low,Low,Low Medium,Medium High,June-Sep,Focus,One Day,2011,PG-13
+738,1041804,Low Medium,Low,Low,Low,Low Medium,Oct-Nov,Free,The Nutcracker in 3D,2010,PG
+739,1408253,Low,Low,Low Medium,Medium,Medium,Jan-May,Uni.,Ride Along,2014,PG-13
+740,1086772,Low,Low,Low,Medium High,Medium High,Jan-May,WB,Blended,2014,PG-13
+741,1640484,Low,Low,Low,Medium,Medium,Jan-May,TriS,Jumping the Broom,2011,PG-13
+742,1555064,Low,Low,Low,Low,Medium High,Dec,SGem,Country Strong,2010,PG-13
+743,2011159,Low,Low,Low,Medium,Medium,June-Sep,SGem,No Good Deed ,2014,PG-13
+744,1003034,Low,Low,Low,Low,Medium High,Jan-May,IFC,Perrier's Bounty,2010,R
+745,1007029,Low,Low,Low,Low,Medium High,Dec,Wein.,The Iron Lady,2011,PG-13
+746,1855325,Low,Low,Low,Medium High,Medium,June-Sep,SGem,Resident Evil: Retribution,2012,R
+747,1981677,Low,Low,Low,Low,Medium High,June-Sep,Uni.,Pitch Perfect,2012,PG-13
+748,1287468,Low,Low,Low,High,Low Medium,June-Sep,WB,Cats & Dogs: The Revenge of Kitty Galore,2010,PG
+749,2083383,Low,Low,Low,Medium High,Medium High,June-Sep,WB,Trouble with the Curve,2012,PG-13
+750,765446,Low,Low,Low,Medium High,Medium,Jan-May,Wein.,Escape From Planet Earth,2013,PG
+751,1480656,Low,Low,Low,Low,Low Medium,Jan-May,IFC,Polisse,2012,R
+752,1646971,Low Medium,Low Medium,Low Medium,High,High,June-Sep,Fox,How to Train Your Dragon 2,2014,PG
+753,1270262,Low,Low,Low,Low,Medium High,June-Sep,LGF,The Devil's Double,2011,R
+754,1222817,Low,Low,Low,Medium High,Medium,June-Sep,Sony,Zookeeper,2011,PG
+755,1210819,Medium High,Low,Low,High,Medium High,June-Sep,BV,The Lone Ranger,2013,PG-13
+756,1742044,Low,Low,Low,Medium High,Medium High,June-Sep,WB,Jersey Boys,2014,R
+757,1321860,Low,Low,Low,Low,Medium High,Jan-May,Sum.,The Beaver,2011,PG-13
+758,2267998,Low,Low Medium,Low Medium,Medium High,High,Oct-Nov,Fox,Gone Girl,2014,R
+759,1710396,Low,Low,Low,Medium High,Medium,Jan-May,WB,Joyful Noise,2012,PG-13
+760,1633356,Low,Low,Low,Medium High,Low Medium,June-Sep,Rela.,Shark Night 3D,2011,PG-13
+761,1336608,Low,Low,Low,Medium High,Medium,June-Sep,WB (NL),Rock of Ages,2012,PG-13
+762,1194417,Low,Low,Low,Low,Medium,Dec,ATO,Casino Jack,2010,R
+763,775552,Low,Low,Low,Medium High,Medium,June-Sep,Fox,Aliens in the Attic,2009,PG
+764,1840417,Low,Low,Low,Medium High,Medium High,June-Sep,CBS,The Words,2012,PG-13
+765,480687,Low,Low,Low,Medium High,Medium,Jan-May,WB (NL),Hall Pass,2011,R
+766,1904996,Low,Low,Low,Medium,Medium,Jan-May,FD,Parker,2013,R
+767,2884206,Low,Low,Low,Low,Medium High,June-Sep,FoxS,I Origins,2014,R
+768,2361700,Low,Low,Low,Low,High,Oct-Nov,MBox,Antarctica: A Year on Ice,2014,PG
+769,1571249,Low,Low,Low,Low,Medium High,June-Sep,RAtt.,The Skeleton Twins,2014,R
+770,1659337,Low,Low,Low,Low,High,June-Sep,LG/S,The Perks of Being a Wallflower,2012,PG-13
+771,492389,Low,Low,Low,Medium High,Low,Jan-May,Sum.,Furry Vengeance,2010,PG
+772,1583420,Low,Low,Low,Medium High,Medium,June-Sep,Uni.,Larry Crowne,2011,PG-13
+773,1583421,Low Medium,Low,Low Medium,High,Medium,Jan-May,Par.,G.I. Joe: Retaliation,2013,PG-13
+774,816711,Medium,Low Medium,Low Medium,High,Medium High,June-Sep,Par.,World War Z,2013,PG-13
+775,2170593,Low,Low,Low,Low,Medium High,Oct-Nov,Wein.,St. Vincent,2014,PG-13
+776,448694,Low Medium,Low,Low,High,Medium High,Oct-Nov,P/DW,Puss in Boots,2011,PG
+777,1622979,Low,Low,Low,Medium High,Medium,June-Sep,WB (NL),Final Destination 5,2011,R
+778,1058017,Low,Low,Low,Low Medium,Medium High,Oct-Nov,WB,The Invention of Lying,2009,PG-13
+779,758746,Low,Low,Low Medium,Medium High,Medium,Jan-May,WB (NL),Friday the 13th ,2009,R
+780,1057500,Low,Low,Low,Medium,Medium High,Dec,WB,Invictus,2009,PG-13
+781,1243957,Low Medium,Low,Low,Medium High,Medium,Dec,Sony,The Tourist,2010,PG-13
+782,1911644,Low,Low,Low,Medium,Medium High,Jan-May,TriS,The Call,2013,R
+783,1686018,Low,Low,Low,Low Medium,Low,June-Sep,BD,Creature ,2011,R
+784,1615065,Low,Low,Low,Medium,Medium High,June-Sep,Uni.,Savages ,2012,R
+785,2051894,Low,Low,Low,Low,Medium,Jan-May,Gold.,Home Run,2013,PG-13
+786,1366365,Low,Low,Low,Low Medium,Low Medium,June-Sep,LG/S,The Cold Light of Day,2012,PG-13
+787,2209418,Low,Low,Low,Low,High,Jan-May,SPC,Before Midnight,2013,R
+788,1924429,Low,Low,Low,Low,Medium High,Jan-May,FoxS,Trance,2013,R
+789,1690953,Low,Medium,Medium,High,Medium High,June-Sep,Uni.,Despicable Me 2,2013,PG
+790,1872194,Low,Low,Low,Medium High,Medium High,Oct-Nov,WB,The Judge,2014,R
+791,1125929,Low,Low,Low,Low,Medium,June-Sep,E1,Love Ranch,2010,R
+792,1124035,Low,Low,Low,Medium,Medium High,Oct-Nov,Sony,The Ides of March,2011,R
+793,1599348,Low,Low,Low Medium,Medium High,Medium High,Jan-May,Uni.,Safe House,2012,R
+794,1484522,Low,Low,Low,Low,Medium High,June-Sep,RF,8: The Mormon Proposition,2010,R
+795,1981115,Low Medium,Low Medium,Medium,High,Medium High,Oct-Nov,BV,Thor: The Dark World,2013,PG-13
+796,1877832,Medium,Low Medium,Medium,High,High,Jan-May,Fox,X-Men: Days of Future Past,2014,PG
+797,386117,Low Medium,Low,Low,High,Medium High,Oct-Nov,WB,Where the Wild Things Are,2009,PG
+798,1212436,Low,Low,Low,Medium High,Medium,Jan-May,CBS,The Back-Up Plan,2010,PG-13
+799,1176740,Low,Low,Low,Low,Medium High,June-Sep,Focus,Away We Go,2009,R
+800,1183923,Low,Low,Low,Low,Medium High,Oct-Nov,Gold.,Welcome to the Rileys,2010,R
+801,2404311,Low,Low,Low,Medium High,Medium High,June-Sep,Rela.,The Family ,2013,R
+802,2377322,Low,Low,Low,Medium High,Medium,June-Sep,SGem,Deliver Us From Evil,2014,R
+803,1080016,Low Medium,Low Medium,Low Medium,High,Medium High,June-Sep,Fox,Ice Age: Dawn of the Dinosaurs,2009,PG
+804,450405,Low,Low,Low,Medium High,Medium,Oct-Nov,Uni.,Cirque du Freak: The Vampire's Assistant,2009,PG-13
+805,1405365,Low,Low,Low,Low,Medium High,June-Sep,SPC,Celeste and Jesse Forever,2012,R
+806,1152836,Low Medium,Low,Low,Medium High,Medium High,June-Sep,Uni.,Public Enemies,2009,R
+807,2281587,Low,Low,Low,Medium High,Medium High,Jan-May,BV,Muppets Most Wanted,2014,PG
+808,1100119,Low,Low,Low,Medium High,Low Medium,June-Sep,WB,Shorts,2009,PG
+809,1596346,Low,Low,Low,Medium,Medium High,Jan-May,TriS,Soul Surfer,2011,PG
+810,1596343,Low Medium,Low Medium,Medium,High,Medium High,Jan-May,Uni.,Fast Five,2011,PG-13
+811,1046173,Medium,Low Medium,Low Medium,High,Medium,June-Sep,Par.,G.I. Joe: The Rise of Cobra,2009,PG-13
+812,1233227,Low,Low,Low,Medium High,Medium,Oct-Nov,LGF,Saw VI,2009,R
+813,438488,Medium,Low,Low Medium,Medium High,Medium High,Jan-May,WB,Terminator Salvation,2009,PG-13
+814,2304771,Low,Low,Low,Low,Medium High,Oct-Nov,Wein.,Mandela: Long Walk to Freedom,2013,PG-13
