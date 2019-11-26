@@ -71,21 +71,24 @@ class Naive:
 data = pd.read_csv("data_discretizado_native.csv")
 y = data["rating"]
 X = data.drop(["Unnamed: 0","Unnamed: 0.1","rating","title"],axis=1) #remocao das colunas que nao serao validas na classificacao
-
-
-
 n = Naive(X,y)
-n.train_test_split()
-n.class_prob()
-
-clf = MultinomialNB()
-clf.fit(n.X_train, n.y_train)
-score = clf.score(n.X_test, n.y_test)
-
-print("score: Done")
 
 
+aux = np.arange(0.1, 2.1, 0.1)
+for alpha in list(aux):
+	score_list = []
+	for i in range(100):
+		n.train_test_split()
+		n.class_prob()
 
+		clf = MultinomialNB(alpha=alpha)
+		clf.fit(n.X_train, n.y_train)
+		score = clf.score(n.X_test, n.y_test)
+
+		#print("score: " + str(score*100) + '%')
+		score_list.append(score)
+
+	print("Media dos scores com alpha = "+str(alpha)+": " + str(np.sum(score_list)*100/len(score_list)) + "%")
 
 #count_right = 0
 #count_wrong = 0

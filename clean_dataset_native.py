@@ -58,24 +58,26 @@ def discretize_column(df):
     return new_df
 
 
-def discretize_season(df):
+def discretize_to_int(df):
   aux = df.copy()
-  for val in range(len(df.index)):
-    if df[val] == "Dec":
-      aux[val]= 12
-    if df[val] == "Jan-May":
-      aux[val]= 1
-    if df[val] == "June-Sep":
-      aux[val]= 6
-    if df[val] == "Oct-Nov":
-      aux[val]= 10
+  unq = np.unique(aux)
+  #print(unq)
+  #print(len(unq))
+  #print("*****************************")
+  for u in range(len(unq)):
+    ids = np.where(df == unq[u])
+    for i in ids:
+      aux[i] = u
+  #print("---------------------------")
+ # print(aux)
   return aux
 
 def discretize(df, columns=['budget', 'gross', 'opening_gross', 'opening_theaters', 'rating']):
   disc = df.copy()
   for col in columns:
     disc[col] = discretize_column(df[col])
-  disc['season'] = discretize_season(disc['season'])
+  for col in ['season', 'studio', 'mpaa_new']:
+    disc[col] = discretize_to_int(df[col])
   return disc
 
 
@@ -84,5 +86,4 @@ def discretize(df, columns=['budget', 'gross', 'opening_gross', 'opening_theater
 df = pd.read_csv("data_box_office.csv")
 clean = df.drop(['cast','close', 'director', 'mpaa', 'open', 'rank', 'June-Sep', 'Oct-Nov', 'Jan-May', 'Dec', 'PG', 'R', 'PG-13', 'prol_studio', 'Tier_2'], axis=1)
 disc = discretize(clean)
-print(np.unique(np.asarray(clean['season'])))
 disc.to_csv('data_discretizado_native.csv')
