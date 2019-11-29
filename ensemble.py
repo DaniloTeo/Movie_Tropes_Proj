@@ -41,7 +41,7 @@ class Ensemble:
 		dtype = [('class',Naive), ('score',np.float_)]
 		for n in range(self.n_classifiers * 10):
 			c = Naive(self.X, self.y, alpha = 0.2)
-			aux_classifiers.append((c, c.score))
+			aux_classifiers.append((c, c.score[0])) #VAI DAR ERRO AQUI, SCORE AGORA EH UMA ARRAY COM O SCORE NORMAL E O COM PESO
 		aux_classifiers = np.array(aux_classifiers,dtype = dtype)
 		aux_classifiers = sorted(aux_classifiers, key=lambda tup: tup[1], reverse=True)
 		for i in range(self.n_classifiers):
@@ -61,8 +61,8 @@ class Naive:
 		self.y_test = None
 		self.train_test_split()
 		self.alpha = alpha
-		self.score = self.score()
-		
+		self.prob_class = self.class_prob()
+		self.score = self.score()		
 
 	# funcao para separacao dos indices, selecionados randomicamente, para teste e treino
 	def train_test_split(self):
@@ -115,6 +115,7 @@ class Naive:
 
 	def score(self):
 		count_right = 0
+		count_peso = 0
 		for q in range(len(self.X_test)):
 			pred = self.predict(self.X_test[q])
 			classes = list(pred[0])
@@ -122,7 +123,8 @@ class Naive:
 			correto = self.y_test[q]
 			if classes[proba.index(np.max(proba))] == correto:
 				count_right = count_right + 1
-		return count_right / len(self.X_test)	
+				count_peso = count_peso + 1 / self.prob_class[correto]
+		return [count_right / len(self.X_test), count_peso / len(self.X_test)]
 
 #main
 # Leitura do dataset e definicao dos conjuntos de dados X e y
@@ -132,5 +134,6 @@ X = data.drop(["Unnamed: 0","Unnamed: 0.1","rating","title"],axis=1) #remocao da
 
 e = Ensemble(X,y)
 e.fit()
-
+for classifier in e.classifiers:
+	print(classifier.score)
 
