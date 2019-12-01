@@ -3,9 +3,10 @@ import numpy as np
 
 # Classe para definir as funcoes do ensemble de Naive-Bayes
 class Ensemble:
-	def __init__(self, X, y, test_size = 0.1, n_classifiers=5):
+	def __init__(self, X, y, test_size = 0.1, n_classifiers=5, type= "sum"):
 		self.X = X
 		self.y = y
+		self.type = type
 		self.n_classifiers = n_classifiers
 		self.test_size = test_size
 		self.X_train = None
@@ -47,6 +48,55 @@ class Ensemble:
 		for i in range(self.n_classifiers):
 			self.classifiers.append(aux_classifiers[i][0])
 
+	def class_prob(self):
+		classes, counts = np.unique(self.y_train, return_counts=True)
+		dic = dict(zip(classes, counts))
+		
+		for key in dic.keys():
+			dic[key] = dic[key] / len(self.y_train)
+		return dic
+
+	def predict(self, query, type=self.type):
+		if type == "sum":
+			classifications = []
+			for classifier in self.classifiers:
+				pred = classifier.predict(query)
+				classes = pred[0]
+				classifications.append(pred[1])
+			pred = np.sum(classifications, axis=0) / self.n_classifiers
+		elif type == "prod":
+			classifications = []
+			probs = self.class_prob()
+			for classifier in self.classifiers:
+				pred = classifier.predict(query)
+				classes = pred[0]
+				classifications.append(pred[1])
+			pred = np.prod(classifications, axis=0) / list(probs.values())
+		elif type == "maj":
+			classifications = []
+			for classifier in self.classifiers:
+				pred = classifier.predict(query)
+				classes = pred[0]
+				classifications.append(pred[1])
+			pred_table = np.zeros(len(classes))
+			for prediction in classifications:
+				proba = list(prediction)
+				pred_table[proba.index(np.max(proba))] = pred_table[proba.index(np.max(proba))] + 1
+			pred = pred_table / sum(pred_table)
+		
+		return classes, pred
+
+	def score(self, type = self.type):
+		count_right = 0
+		count_peso = 0
+		for q in range(len(self.X_test)):
+			pred = self.predict(self.X_test[q], type=type)
+			classes = list(pred[0])
+			proba = list(pred[1])
+			correto = self.y_test[q]
+			if classes[proba.index(np.max(proba))] == correto:
+				count_right = count_right + 1
+		return count_right / len(self.X_test)
 
 # Classe para definicoes das funcoes do modelo de classificacao Naive Bayes
 class Naive:
@@ -106,8 +156,6 @@ class Naive:
 				P_nom_h = (np.sum((self.X_train[ids])[:,atr] == nom_atr) + self.alpha) / len(ids[0])
 				if P_nom_h != 0:
 					log_P_h_D[classe] = log_P_h_D[classe] + np.log(P_nom_h)
-
-
 		P_h_D = np.exp(log_P_h_D)
 		P_h_D = P_h_D/np.sum(P_h_D)
 
@@ -131,9 +179,11 @@ class Naive:
 data = pd.read_csv("data_discretizado.csv")
 y = data["rating"]
 X = data.drop(["Unnamed: 0","Unnamed: 0.1","rating","title"],axis=1) #remocao das colunas que nao serao validas na classificacao
-
-e = Ensemble(X,y)
-e.fit()
-for classifier in e.classifiers:
-	print(classifier.score)
-
+score = 0
+for i in range(10):
+	e = Ensemble(X,y,n_classifiers=5)
+	e.fit()
+	score_aux = e.score()
+	print(score_aux)
+	score = score + score_aux
+print("score medio: " + str(score/10))
